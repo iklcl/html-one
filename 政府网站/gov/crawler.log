@@ -1,0 +1,173 @@
+﻿2017-12-01 09:34 - ccgp-hainan.py[line:71] - INFO: 海南省政府采购网,更新:(27)
+2017-12-01 09:35 - ccgp-qinghai.py[line:78] - INFO: 青海省政府采购网,更新:(2)
+2017-12-01 09:36 - ccgp-shanxi.py[line:97] - INFO: 陕西省政府采购网,更新:(38)
+2017-12-01 09:37 - ccgp-xizang.py[line:72] - INFO: 海南省政府采购网,更新:(14)
+2017-12-01 09:51 - ccgp-shanxi.py[line:96] - INFO: 陕西省政府采购网,更新:(0)
+2017-12-01 09:51 - ccgp-shanxi.py[line:101] - INFO: True
+2017-12-01 09:52 - ccgp-qinghai.py[line:75] - INFO: 青海省政府采购网,更新:(0)
+2017-12-01 09:52 - ccgp-qinghai.py[line:80] - INFO: True
+2017-12-01 09:52 - ccgp-hainan.py[line:69] - INFO: 海南省政府采购网,更新:(0)
+2017-12-01 09:52 - ccgp-hainan.py[line:76] - INFO: True
+2017-12-01 09:53 - ccgp-xizang.py[line:68] - INFO: 海南省政府采购网,更新:(0)
+2017-12-01 09:53 - ccgp-xizang.py[line:73] - INFO: True
+2017-12-01 09:54 - ccgp-xizang.py[line:68] - INFO: 西藏政府采购网,更新:(0)
+2017-12-01 09:54 - ccgp-xizang.py[line:73] - INFO: True
+2017-12-01 10:27 - ccgp-xizang.py[line:68] - INFO: 西藏政府采购网,更新:(0)
+2017-12-01 10:27 - ccgp-xizang.py[line:73] - INFO: True
+2017-12-01 10:39 - ccgp_shanxi.py[line:95] - INFO: 陕西省政府采购网,更新:(0)
+2017-12-01 10:39 - ccgp_shanxi.py[line:100] - INFO: True
+2017-12-01 10:40 - ccgp_shanxi.py[line:94] - INFO: 陕西省政府采购网,更新:(0)
+2017-12-01 10:40 - ccgp_shanxi.py[line:99] - INFO: True
+2017-12-01 14:45 - ccgp_sichuan.py[line:86] - ERROR: 'NoneType' object is not iterable
+2017-12-01 14:45 - ccgp_sichuan.py[line:86] - ERROR: 'NoneType' object is not iterable
+2017-12-01 14:45 - ccgp_sichuan.py[line:94] - INFO: None
+2017-12-01 14:45 - ccgp_sichuan.py[line:86] - ERROR: global name 'tis' is not defined
+2017-12-01 14:45 - ccgp_sichuan.py[line:94] - INFO: None
+2017-12-01 14:46 - ccgp_sichuan.py[line:94] - INFO: None
+2017-12-01 14:47 - ccgp_sichuan.py[line:92] - INFO: None
+2017-12-01 14:47 - ccgp_sichuan.py[line:87] - INFO: 四川政府采购网,更新:(0)
+2017-12-01 14:47 - ccgp_sichuan.py[line:92] - INFO: True
+2017-12-01 14:55 - ccgp_sichuan.py[line:87] - INFO: 四川政府采购网,更新:(0)
+2017-12-01 14:55 - ccgp_sichuan.py[line:92] - INFO: True
+2017-12-01 14:57 - ccgp_sichuan.py[line:87] - INFO: 四川政府采购网,更新:(0)
+2017-12-01 14:57 - ccgp_sichuan.py[line:92] - INFO: True
+2017-12-01 14:57 - ccgp_sichuan.py[line:87] - INFO: 四川政府采购网,更新:(0)
+2017-12-01 14:57 - ccgp_sichuan.py[line:92] - INFO: True
+2017-12-01 14:59 - ccgp_sichuan.py[line:86] - INFO: 四川政府采购网,更新:(0)
+2017-12-01 14:59 - ccgp_sichuan.py[line:91] - INFO: True
+2017-12-02 10:20 - ccgp_sichuan.py[line:86] - INFO: 四川政府采购网,更新:(0)
+2017-12-02 10:20 - ccgp_sichuan.py[line:91] - INFO: True
+2017-12-02 15:11 - ccgp_sichuan.py[line:86] - INFO: 四川政府采购网,更新:(0)
+2017-12-02 15:11 - ccgp_sichuan.py[line:91] - INFO: True
+2017-12-02 15:22 - ccgp_jiangsu.py[line:83] - INFO: 江苏政府采购网,更新:(79)
+2017-12-02 15:22 - ccgp_jiangsu.py[line:88] - INFO: True
+2017-12-03 15:18 - ccgp_neimenggu.py[line:68] - ERROR: global name 'year' is not defined
+2017-12-03 15:18 - ccgp_neimenggu.py[line:71] - INFO: 内蒙古政府采购网,更新:(56)
+2017-12-03 15:18 - ccgp_neimenggu.py[line:76] - INFO: True
+2017-12-03 15:21 - ccgp_neimenggu.py[line:74] - INFO: 内蒙古政府采购网,更新:(0)
+2017-12-03 15:21 - ccgp_neimenggu.py[line:79] - INFO: True
+2017-12-05 10:52 - ccgp_jiangsu.py[line:82] - INFO: 江苏政府采购网,更新:(0)
+2017-12-05 10:52 - ccgp_jiangsu.py[line:87] - INFO: True
+2017-12-05 17:50 - ccgp_zhejiang.py[line:72] - INFO: 浙江政府采购网,更新:(239)
+2017-12-05 17:50 - ccgp_zhejiang.py[line:77] - INFO: True
+2017-12-05 18:47 - ccgp_zhejiang.py[line:72] - INFO: 浙江政府采购网,更新:(0)
+2017-12-05 18:47 - ccgp_zhejiang.py[line:77] - INFO: True
+2017-12-06 10:30 - ccgp_dalian.py[line:79] - INFO: 江苏政府采购网,更新:(19)
+2017-12-06 10:30 - ccgp_dalian.py[line:84] - INFO: True
+2017-12-08 09:38 - ccgp_zhejiang.py[line:78] - INFO: None
+2017-12-08 09:38 - ccgp_zhejiang.py[line:78] - INFO: None
+2017-12-08 09:39 - ccgp_zhejiang.py[line:72] - INFO: 浙江政府采购网,更新:(0)
+2017-12-08 09:39 - ccgp_zhejiang.py[line:77] - INFO: True
+2017-12-08 09:44 - ccgp_zhejiang.py[line:69] - ERROR: unsupported operand type(s) for -: 'str' and 'datetime.datetime'
+2017-12-08 09:44 - ccgp_zhejiang.py[line:77] - INFO: None
+2017-12-08 09:46 - ccgp_zhejiang.py[line:69] - ERROR: descriptor 'strftime' requires a 'datetime.date' object but received a 'str'
+2017-12-08 09:46 - ccgp_zhejiang.py[line:77] - INFO: None
+2017-12-08 09:46 - ccgp_zhejiang.py[line:69] - ERROR: descriptor 'strftime' requires a 'datetime.date' object but received a 'str'
+2017-12-08 09:47 - ccgp_zhejiang.py[line:69] - ERROR: descriptor 'strftime' requires a 'datetime.date' object but received a 'str'
+2017-12-08 09:48 - ccgp_zhejiang.py[line:77] - INFO: True
+2017-12-08 09:48 - ccgp_zhejiang.py[line:77] - INFO: True
+2017-12-08 09:48 - ccgp_zhejiang.py[line:69] - ERROR: descriptor 'strftime' requires a 'datetime.date' object but received a 'str'
+2017-12-08 09:48 - ccgp_zhejiang.py[line:77] - INFO: True
+2017-12-08 09:50 - ccgp_zhejiang.py[line:70] - ERROR: global name 'snowtime' is not defined
+2017-12-08 09:50 - ccgp_zhejiang.py[line:78] - INFO: True
+2017-12-08 09:50 - ccgp_zhejiang.py[line:78] - INFO: True
+2017-12-08 09:51 - ccgp_zhejiang.py[line:78] - INFO: True
+2017-12-08 09:53 - ccgp_zhejiang.py[line:78] - INFO: True
+2017-12-08 09:55 - ccgp_zhejiang.py[line:70] - ERROR: 'datetime.timedelta' object has no attribute 'day'
+2017-12-08 09:55 - ccgp_zhejiang.py[line:78] - INFO: True
+2017-12-08 09:55 - ccgp_zhejiang.py[line:70] - ERROR: 'datetime.timedelta' object has no attribute 'day'
+2017-12-08 09:55 - ccgp_zhejiang.py[line:78] - INFO: True
+2017-12-08 09:56 - ccgp_zhejiang.py[line:70] - ERROR: 'datetime.timedelta' object has no attribute 'day'
+2017-12-08 09:56 - ccgp_zhejiang.py[line:78] - INFO: True
+2017-12-08 09:57 - ccgp_zhejiang.py[line:78] - INFO: True
+2017-12-08 09:57 - ccgp_zhejiang.py[line:78] - INFO: True
+2017-12-08 09:59 - ccgp_zhejiang.py[line:78] - INFO: True
+2017-12-08 09:59 - ccgp_zhejiang.py[line:79] - INFO: True
+2017-12-08 10:00 - ccgp_zhejiang.py[line:79] - INFO: True
+2017-12-08 10:00 - ccgp_zhejiang.py[line:79] - INFO: True
+2017-12-08 10:00 - ccgp_zhejiang.py[line:79] - INFO: True
+2017-12-08 10:12 - ccgp_dalian.py[line:78] - ERROR: get_link() takes no arguments (1 given)
+2017-12-08 10:13 - ccgp_dalian.py[line:81] - INFO: 江苏政府采购网,更新:(0)
+2017-12-08 10:13 - ccgp_dalian.py[line:86] - INFO: True
+2017-12-08 10:13 - ccgp_dalian.py[line:81] - INFO: 江苏政府采购网,更新:(0)
+2017-12-08 10:13 - ccgp_dalian.py[line:86] - INFO: True
+2017-12-08 10:13 - ccgp_dalian.py[line:81] - INFO: 江苏政府采购网,更新:(0)
+2017-12-08 10:13 - ccgp_dalian.py[line:86] - INFO: True
+2017-12-08 10:13 - ccgp_dalian.py[line:81] - INFO: 江苏政府采购网,更新:(2)
+2017-12-08 10:13 - ccgp_dalian.py[line:86] - INFO: True
+2017-12-08 10:15 - ccgp_hainan.py[line:72] - INFO: 海南省政府采购网,更新:(0)
+2017-12-08 10:15 - ccgp_hainan.py[line:79] - INFO: True
+2017-12-08 10:15 - ccgp_hainan.py[line:72] - INFO: 海南省政府采购网,更新:(0)
+2017-12-08 10:15 - ccgp_hainan.py[line:79] - INFO: True
+2017-12-08 10:15 - ccgp_hainan.py[line:72] - INFO: 海南省政府采购网,更新:(1)
+2017-12-08 10:15 - ccgp_hainan.py[line:79] - INFO: True
+2017-12-08 10:17 - ccgp_jiangsu.py[line:85] - INFO: 江苏政府采购网,更新:(0)
+2017-12-08 10:17 - ccgp_jiangsu.py[line:90] - INFO: True
+2017-12-08 10:17 - ccgp_jiangsu.py[line:85] - INFO: 江苏政府采购网,更新:(1)
+2017-12-08 10:17 - ccgp_jiangsu.py[line:90] - INFO: True
+2017-12-08 10:18 - ccgp_neimenggu.py[line:74] - ERROR: list index out of range
+2017-12-08 10:26 - ccgp_neimenggu.py[line:77] - INFO: 内蒙古政府采购网,更新:(7)
+2017-12-08 10:26 - ccgp_neimenggu.py[line:82] - INFO: True
+2017-12-08 10:27 - ccgp_qinghai.py[line:78] - INFO: 青海省政府采购网,更新:(0)
+2017-12-08 10:27 - ccgp_qinghai.py[line:83] - INFO: True
+2017-12-08 10:28 - ccgp_qinghai.py[line:78] - INFO: 青海省政府采购网,更新:(0)
+2017-12-08 10:28 - ccgp_qinghai.py[line:83] - INFO: True
+2017-12-08 10:28 - ccgp_qinghai.py[line:78] - INFO: 青海省政府采购网,更新:(2)
+2017-12-08 10:28 - ccgp_qinghai.py[line:83] - INFO: True
+2017-12-08 10:30 - ccgp_shaanxi.py[line:97] - INFO: 陕西省政府采购网,更新:(9)
+2017-12-08 10:30 - ccgp_shaanxi.py[line:102] - INFO: True
+2017-12-08 10:34 - ccgp_sichuan.py[line:87] - ERROR: get_link() takes exactly 2 arguments (3 given)
+2017-12-08 10:34 - ccgp_sichuan.py[line:87] - ERROR: get_link() takes exactly 2 arguments (3 given)
+2017-12-08 10:34 - ccgp_sichuan.py[line:87] - ERROR: get_link() takes exactly 2 arguments (3 given)
+2017-12-08 10:34 - ccgp_sichuan.py[line:87] - ERROR: get_link() takes exactly 2 arguments (3 given)
+2017-12-08 10:34 - ccgp_sichuan.py[line:87] - ERROR: get_link() takes exactly 2 arguments (3 given)
+2017-12-08 10:34 - ccgp_sichuan.py[line:87] - ERROR: get_link() takes exactly 2 arguments (3 given)
+2017-12-08 10:34 - ccgp_sichuan.py[line:87] - ERROR: get_link() takes exactly 2 arguments (3 given)
+2017-12-08 10:34 - ccgp_sichuan.py[line:90] - INFO: 四川政府采购网,更新:(0)
+2017-12-08 10:34 - ccgp_sichuan.py[line:95] - INFO: True
+2017-12-08 10:35 - ccgp_sichuan.py[line:87] - ERROR: get_link() takes exactly 2 arguments (3 given)
+2017-12-08 10:35 - ccgp_sichuan.py[line:87] - ERROR: get_link() takes exactly 2 arguments (3 given)
+2017-12-08 10:35 - ccgp_sichuan.py[line:87] - ERROR: get_link() takes exactly 2 arguments (3 given)
+2017-12-08 10:35 - ccgp_sichuan.py[line:87] - ERROR: get_link() takes exactly 2 arguments (3 given)
+2017-12-08 10:35 - ccgp_sichuan.py[line:87] - ERROR: get_link() takes exactly 2 arguments (3 given)
+2017-12-08 10:35 - ccgp_sichuan.py[line:87] - ERROR: get_link() takes exactly 2 arguments (3 given)
+2017-12-08 10:35 - ccgp_sichuan.py[line:87] - ERROR: get_link() takes exactly 2 arguments (3 given)
+2017-12-08 10:35 - ccgp_sichuan.py[line:90] - INFO: 四川政府采购网,更新:(0)
+2017-12-08 10:35 - ccgp_sichuan.py[line:95] - INFO: True
+2017-12-08 10:36 - ccgp_sichuan.py[line:90] - INFO: 四川政府采购网,更新:(25)
+2017-12-08 10:36 - ccgp_sichuan.py[line:95] - INFO: True
+2017-12-08 10:40 - ccgp_sichuan.py[line:90] - INFO: 四川政府采购网,更新:(25)
+2017-12-08 10:40 - ccgp_sichuan.py[line:95] - INFO: True
+2017-12-08 10:42 - ccgp_xizang.py[line:71] - INFO: 西藏政府采购网,更新:(6)
+2017-12-08 10:42 - ccgp_xizang.py[line:76] - INFO: True
+2017-12-08 10:42 - ccgp_zhejiang.py[line:74] - INFO: 浙江政府采购网,更新:(3)
+2017-12-08 10:42 - ccgp_zhejiang.py[line:79] - INFO: True
+2017-12-08 10:42 - ccgp_zhejiang.py[line:74] - INFO: 浙江政府采购网,更新:(3)
+2017-12-08 10:42 - ccgp_zhejiang.py[line:79] - INFO: True
+2017-12-08 12:28 - ccgp_dalian.py[line:81] - INFO: 江苏政府采购网,更新:(0)
+2017-12-08 12:28 - ccgp_dalian.py[line:86] - INFO: True
+2017-12-13 09:57 - ccgp_neimenggu.py[line:74] - ERROR: No JSON object could be decoded
+2017-12-13 09:57 - ccgp_neimenggu.py[line:74] - ERROR: No JSON object could be decoded
+2017-12-13 10:04 - ccgp_neimenggu.py[line:74] - INFO: 内蒙古政府采购网,更新:(7)
+2017-12-13 10:04 - ccgp_neimenggu.py[line:79] - INFO: True
+2017-12-13 10:05 - ccgp_neimenggu.py[line:74] - INFO: 内蒙古政府采购网,更新:(7)
+2017-12-13 10:05 - ccgp_neimenggu.py[line:79] - INFO: True
+2017-12-13 10:06 - ccgp_neimenggu.py[line:74] - INFO: 内蒙古政府采购网,更新:(7)
+2017-12-13 10:06 - ccgp_neimenggu.py[line:79] - INFO: True
+2017-12-27 09:17 - ccgp_zhejiang.py[line:71] - ERROR: 'noticePubDate'
+2017-12-27 09:17 - ccgp_zhejiang.py[line:71] - ERROR: 'noticePubDate'
+2017-12-27 09:28 - ccgp_zhejiang.py[line:75] - INFO: 浙江政府采购网,更新:(1)
+2017-12-27 09:28 - ccgp_zhejiang.py[line:80] - INFO: True
+2017-12-27 09:33 - ccgp_zhejiang.py[line:75] - INFO: 浙江政府采购网,更新:(1)
+2017-12-27 09:33 - ccgp_zhejiang.py[line:80] - INFO: True
+2017-12-27 09:48 - ccgp_zhejiang.py[line:75] - INFO: 浙江政府采购网,更新:(1)
+2017-12-27 09:48 - ccgp_zhejiang.py[line:80] - INFO: True
+2017-12-27 09:48 - ccgp_zhejiang.py[line:75] - INFO: 浙江政府采购网,更新:(3)
+2017-12-27 09:48 - ccgp_zhejiang.py[line:80] - INFO: True
+2017-12-27 10:06 - ccgp_zhejiang.py[line:74] - INFO: 浙江政府采购网,更新:(3)
+2017-12-27 10:06 - ccgp_zhejiang.py[line:79] - INFO: True
+2017-12-27 10:14 - ccgp_zhejiang.py[line:74] - INFO: 浙江政府采购网,更新:(3)
+2017-12-27 10:14 - ccgp_zhejiang.py[line:79] - INFO: True
+2017-12-27 19:29 - ccgp_shaanxi.py[line:98] - INFO: 陕西省政府采购网,更新:(10)
+2017-12-27 19:29 - ccgp_shaanxi.py[line:103] - INFO: True
+2018-01-05 11:01 - ccgp_neimenggu.py[line:71] - ERROR: HTTPConnectionPool(host='www.nmgp.gov.cn', port=80): Max retries exceeded with url: /zfcgwslave/web/index.php?fun=cggg&type_name=1&r=zfcgw%2Fanndata&keyword=%E5%9C%B0%E5%9B%BE&byf_page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03427A10>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed',))

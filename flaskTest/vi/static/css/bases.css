@@ -1,0 +1,21 @@
+
+.zhiliaologo{
+    width: 100px;
+}
+
+.main{
+    background: #fff;
+    width:900px;
+    overflow:hidden;
+    margin: 0 auto;
+}
+
+body{
+    background: #f3f3f3;
+}
+
+.page-title{
+    text-align: center;
+    padding: 20px;
+}
+

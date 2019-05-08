@@ -1,0 +1,59 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/question.css') }}">
+{% endblock %}
+
+{% block title %}项目管理{% endblock %}
+
+{% block main %}
+    <h3 class="page-title" >项目管理</h3>
+
+    <form action="" method="post" enctype=multipart/form-data style="margin-left: 30px">
+    <p>
+        <input type=file name=file style="float: left"  multiple webkitdirectory >
+        <input type=submit value=上传>
+    </p>
+    </form>
+    <div class="big-box" style="height: 500px;width:800px;margin-left: 15px">
+        <div class="box" style="border: 1px solid olivedrab;width: 350px;height: 500px;float: left;margin:10px; overflow-y:scroll;">
+            <ul>
+                {% for question in questions %}
+                    <li style="list-style: none;margin-left:-40px;">
+                        <div class="btn-group" role="group" aria-label="..." style="margin-left:5px;margin-top: 2px;text-overflow:clip;">
+                            <button type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="功夫大使馆根深蒂固单方事故讽德诵功" style="overflow:hidden;width: 125px;">
+                                <a href="#" style="color:black;margin-left:-6px; ">{{ question.title }}</a>
+                            </button>    
+                            <button type="button" class="btn btn-default"><a href="#">添加至运行</a></button>
+                            {% if user %}
+                                <button type="button" class="btn btn-default"><a href="#">删除</a></button>
+                                <button type="button" class="btn btn-default"><a href="#">下载</a></button>
+                            {% else %}
+                                <button type="button" class="btn btn-default" onclick="print()"><a href="#">删除</a></button>
+                                <button type="button" class="btn btn-default" onclick="print()"><a href="#">下载</a></button>
+                            {% endif %}
+                        </div>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div style="float: left">
+            <span class="glyphicon glyphicon-arrow-right" aria-hidden="true" style="font-size: xx-large;margin-top: 250px;margin-left: 20px;"></span>
+        </div>
+
+
+        <div class="box"style="border: 1px solid olivedrab;width: 350px;height: 500px;float:right;margin: 10px;overflow-y:scroll;">
+
+        </div>
+    </div>
+
+
+<script>
+    function print()
+    {
+    alert("没有权限，请先登录！");
+    }
+</script>
+
+{% endblock %}

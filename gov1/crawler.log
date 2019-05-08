@@ -1,0 +1,92 @@
+﻿2018-01-05 12:29 - carelandSpider.py[line:15] - INFO: >>>>>>>>>>>>>>>>>>>>>>>>开始运行>>>>>>>>>>>>>>>>>>>>>>>>
+2018-01-05 12:29 - carelandSpider.py[line:22] - INFO: 发现模块数:10
+2018-01-05 12:29 - carelandSpider.py[line:39] - INFO: 导入模块: ccgp_dalian
+2018-01-05 12:29 - carelandSpider.py[line:43] - INFO: 查询关键词: ﻿地图
+2018-01-05 12:29 - ccgp_dalian.py[line:82] - INFO: 大连政府采购网,更新:(20)
+2018-01-05 12:29 - carelandSpider.py[line:43] - INFO: 查询关键词: 智慧
+2018-01-05 12:29 - ccgp_dalian.py[line:82] - INFO: 大连政府采购网,更新:(3)
+2018-01-05 12:29 - carelandSpider.py[line:43] - INFO: 查询关键词: 物流
+2018-01-05 12:29 - ccgp_dalian.py[line:82] - INFO: 大连政府采购网,更新:(0)
+2018-01-05 12:29 - carelandSpider.py[line:39] - INFO: 导入模块: ccgp_hainan
+2018-01-05 12:29 - carelandSpider.py[line:43] - INFO: 查询关键词: ﻿地图
+2018-01-05 12:29 - ccgp_hainan.py[line:75] - INFO: 海南省政府采购网,更新:(0)
+2018-01-05 12:29 - carelandSpider.py[line:43] - INFO: 查询关键词: 智慧
+2018-01-05 12:29 - ccgp_hainan.py[line:75] - INFO: 海南省政府采购网,更新:(0)
+2018-01-05 12:29 - carelandSpider.py[line:43] - INFO: 查询关键词: 物流
+2018-01-05 12:29 - ccgp_hainan.py[line:75] - INFO: 海南省政府采购网,更新:(0)
+2018-01-05 12:29 - carelandSpider.py[line:39] - INFO: 导入模块: ccgp_jiangsu
+2018-01-05 12:29 - carelandSpider.py[line:43] - INFO: 查询关键词: ﻿地图
+2018-01-05 12:29 - ccgp_jiangsu.py[line:92] - INFO: 江苏政府采购网,更新:(0)
+2018-01-05 12:29 - carelandSpider.py[line:43] - INFO: 查询关键词: 智慧
+2018-01-05 12:30 - ccgp_jiangsu.py[line:92] - INFO: 江苏政府采购网,更新:(0)
+2018-01-05 12:30 - carelandSpider.py[line:43] - INFO: 查询关键词: 物流
+2018-01-05 12:30 - ccgp_jiangsu.py[line:92] - INFO: 江苏政府采购网,更新:(0)
+2018-01-05 12:30 - carelandSpider.py[line:39] - INFO: 导入模块: ccgp_neimenggu
+2018-01-05 12:30 - carelandSpider.py[line:43] - INFO: 查询关键词: ﻿地图
+2018-01-05 12:30 - ccgp_neimenggu.py[line:76] - INFO: 内蒙古政府采购网,更新:(0)
+2018-01-05 12:30 - carelandSpider.py[line:43] - INFO: 查询关键词: 智慧
+2018-01-05 12:30 - ccgp_neimenggu.py[line:76] - INFO: 内蒙古政府采购网,更新:(5)
+2018-01-05 12:30 - carelandSpider.py[line:43] - INFO: 查询关键词: 物流
+2018-01-05 12:30 - ccgp_neimenggu.py[line:76] - INFO: 内蒙古政府采购网,更新:(6)
+2018-01-05 12:30 - carelandSpider.py[line:39] - INFO: 导入模块: ccgp_ningbo
+2018-01-05 12:30 - carelandSpider.py[line:43] - INFO: 查询关键词: ﻿地图
+2018-01-05 12:30 - ccgp_ningbo.py[line:57] - INFO: 宁波政府采购网信息-更新数量:(0)
+2018-01-05 12:30 - carelandSpider.py[line:43] - INFO: 查询关键词: 智慧
+2018-01-05 12:30 - ccgp_ningbo.py[line:57] - INFO: 宁波政府采购网信息-更新数量:(16)
+2018-01-05 12:30 - carelandSpider.py[line:43] - INFO: 查询关键词: 物流
+2018-01-05 12:30 - ccgp_ningbo.py[line:57] - INFO: 宁波政府采购网信息-更新数量:(3)
+2018-01-05 12:30 - carelandSpider.py[line:39] - INFO: 导入模块: ccgp_qinghai
+2018-01-05 12:30 - carelandSpider.py[line:43] - INFO: 查询关键词: ﻿地图
+2018-01-05 12:30 - ccgp_qinghai.py[line:79] - INFO: 青海省政府采购网,更新:(0)
+2018-01-05 12:30 - carelandSpider.py[line:43] - INFO: 查询关键词: 智慧
+2018-01-05 12:31 - ccgp_qinghai.py[line:79] - INFO: 青海省政府采购网,更新:(8)
+2018-01-05 12:31 - carelandSpider.py[line:43] - INFO: 查询关键词: 物流
+2018-01-05 12:31 - ccgp_qinghai.py[line:79] - INFO: 青海省政府采购网,更新:(0)
+2018-01-05 12:31 - carelandSpider.py[line:39] - INFO: 导入模块: ccgp_shaanxi
+2018-01-05 12:31 - carelandSpider.py[line:43] - INFO: 查询关键词: ﻿地图
+2018-01-05 12:31 - ccgp_shaanxi.py[line:95] - INFO: 陕西省政府采购网,更新:(0)
+2018-01-05 12:31 - carelandSpider.py[line:43] - INFO: 查询关键词: 智慧
+2018-01-05 12:31 - ccgp_shaanxi.py[line:95] - INFO: 陕西省政府采购网,更新:(2)
+2018-01-05 12:31 - carelandSpider.py[line:43] - INFO: 查询关键词: 物流
+2018-01-05 12:31 - ccgp_shaanxi.py[line:95] - INFO: 陕西省政府采购网,更新:(2)
+2018-01-05 12:31 - carelandSpider.py[line:39] - INFO: 导入模块: ccgp_sichuan
+2018-01-05 12:31 - carelandSpider.py[line:43] - INFO: 查询关键词: ﻿地图
+2018-01-05 12:31 - ccgp_sichuan.py[line:93] - INFO: 四川政府采购网,更新:(0)
+2018-01-05 12:31 - carelandSpider.py[line:43] - INFO: 查询关键词: 智慧
+2018-01-05 12:31 - ccgp_sichuan.py[line:93] - INFO: 四川政府采购网,更新:(0)
+2018-01-05 12:31 - carelandSpider.py[line:43] - INFO: 查询关键词: 物流
+2018-01-05 12:31 - ccgp_sichuan.py[line:93] - INFO: 四川政府采购网,更新:(0)
+2018-01-05 12:31 - carelandSpider.py[line:39] - INFO: 导入模块: ccgp_xizang
+2018-01-05 12:31 - carelandSpider.py[line:43] - INFO: 查询关键词: ﻿地图
+2018-01-05 12:31 - ccgp_xizang.py[line:73] - INFO: 西藏政府采购网,更新:(0)
+2018-01-05 12:31 - carelandSpider.py[line:43] - INFO: 查询关键词: 智慧
+2018-01-05 12:31 - ccgp_xizang.py[line:73] - INFO: 西藏政府采购网,更新:(0)
+2018-01-05 12:31 - carelandSpider.py[line:43] - INFO: 查询关键词: 物流
+2018-01-05 12:31 - ccgp_xizang.py[line:73] - INFO: 西藏政府采购网,更新:(0)
+2018-01-05 12:31 - carelandSpider.py[line:39] - INFO: 导入模块: ccgp_zhejiang
+2018-01-05 12:31 - carelandSpider.py[line:43] - INFO: 查询关键词: ﻿地图
+2018-01-05 12:31 - ccgp_zhejiang.py[line:74] - INFO: 浙江政府采购网,更新:(0)
+2018-01-05 12:31 - carelandSpider.py[line:43] - INFO: 查询关键词: 智慧
+2018-01-05 12:32 - ccgp_zhejiang.py[line:74] - INFO: 浙江政府采购网,更新:(56)
+2018-01-05 12:32 - carelandSpider.py[line:43] - INFO: 查询关键词: 物流
+2018-01-05 12:32 - ccgp_zhejiang.py[line:74] - INFO: 浙江政府采购网,更新:(12)
+2018-01-05 12:32 - carelandSpider.py[line:49] - INFO: <<<<<<<<<<<<<<<<<<<<<<<<运行结束<<<<<<<<<<<<<<<<<<<<<<<<
+2018-01-05 14:18 - ccgp_xizang.py[line:73] - INFO: 西藏政府采购网,更新:(0)
+2018-01-05 14:18 - ccgp_xizang.py[line:78] - INFO: True
+2018-01-05 14:50 - ccgp_neimenggu.py[line:73] - ERROR: HTTPConnectionPool(host='www.nmgp.gov.cn', port=80): Max retries exceeded with url: /zfcgwslave/web/index.php?keyword=%E6%99%BA%E6%85%A7&%23+_=1515135009000&type_name=1&byf_page=1&r=zfcgw%2Fanndata&fun=cggg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x036819D0>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed',))
+2018-01-05 14:55 - ccgp_neimenggu.py[line:77] - INFO: 内蒙古政府采购网,更新:(28)
+2018-01-05 14:55 - ccgp_neimenggu.py[line:82] - INFO: True
+2018-01-05 15:02 - ccgp_neimenggu.py[line:77] - INFO: 内蒙古政府采购网,更新:(26)
+2018-01-05 15:02 - ccgp_neimenggu.py[line:82] - INFO: True
+2018-01-05 15:05 - ccgp_neimenggu.py[line:74] - INFO: 内蒙古政府采购网,更新:(26)
+2018-01-05 15:05 - ccgp_neimenggu.py[line:79] - INFO: True
+2018-01-05 15:08 - ccgp_neimenggu.py[line:74] - INFO: 内蒙古政府采购网,更新:(26)
+2018-01-05 15:08 - ccgp_neimenggu.py[line:79] - INFO: True
+2018-01-05 15:16 - ccgp_neimenggu.py[line:70] - INFO: 内蒙古政府采购网,更新:(33)
+2018-01-05 15:16 - ccgp_neimenggu.py[line:75] - INFO: True
+2018-01-11 09:02 - ccgp_neimenggu.py[line:70] - INFO: 内蒙古政府采购网,更新:(27)
+2018-01-11 09:02 - ccgp_neimenggu.py[line:75] - INFO: True
+2018-01-11 09:05 - ccgp_neimenggu.py[line:70] - INFO: 内蒙古政府采购网,更新:(16)
+2018-01-11 09:05 - ccgp_neimenggu.py[line:75] - INFO: True
+2018-03-01 16:32 - ccgp_dalian.py[line:82] - INFO: 大连政府采购网,更新:(9)
+2018-03-01 16:32 - ccgp_dalian.py[line:87] - INFO: True

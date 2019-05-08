@@ -1,0 +1,1636 @@
+2018-06-04 11:15:38,184 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:15:38,796 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:15:38,799 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:15:38,805 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:15:44,579 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:15:44] "GET / HTTP/1.1" 200 -
+2018-06-04 11:15:44,599 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:15:44] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:15:44,677 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:15:44] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:19:54,437 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:19:54,809 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:19:54,961 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:19:55,084 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:19:55,085 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:19:55,095 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:20:08,322 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:20:08,907 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:20:08,910 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:20:08,917 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:20:11,313 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:20:11] "GET / HTTP/1.1" 200 -
+2018-06-04 11:20:11,334 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:20:11] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:20:11,381 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:20:11] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:21:25,026 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:21:25,147 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:21:25,720 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:21:25,723 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:21:25,730 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:21:27,260 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:21:27,839 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:21:27,842 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:21:27,848 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:21:31,210 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:21:31] "GET / HTTP/1.1" 200 -
+2018-06-04 11:21:31,230 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:21:31] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:21:31,273 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:21:31] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:21:31,845 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:21:31] "GET / HTTP/1.1" 200 -
+2018-06-04 11:21:31,867 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:21:31] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:21:31,920 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:21:31] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:23:04,575 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:23:04,734 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:23:04,740 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:23:05,345 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:23:05,348 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:23:05,355 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:27:09,611 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:27:09,742 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:27:10,332 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:27:10,335 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:27:10,341 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:27:20,420 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:27:20] "GET / HTTP/1.1" 200 -
+2018-06-04 11:27:20,440 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:27:20] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:27:20,503 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:27:20] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:27:48,381 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:27:48,963 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:27:48,964 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:27:48,971 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:27:59,088 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:27:59,388 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:27:59,654 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:27:59,869 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:28:00,003 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:28:00,006 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:28:00,088 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:28:00,400 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:28:00,469 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:28:00,470 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:28:00,572 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:28:00,980 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:28:01,164 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:28:01,167 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:28:01,171 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:28:01,174 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:28:01,319 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:28:01,404 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:28:01,676 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:28:01,678 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:28:01,700 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:28:01,733 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:28:01,891 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:28:02,016 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:28:02,019 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:28:02,075 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:28:02,506 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:28:02,513 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:28:02,516 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:28:02,668 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:28:02,673 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:28:02,674 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:28:02,683 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:28:02,904 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:28:03,177 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:28:03,180 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:28:03,186 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:28:03,724 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:28:03,726 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:28:03,733 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:28:57,711 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:28:58,305 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:28:58,306 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:28:58,313 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:29:00,131 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:29:00] "GET / HTTP/1.1" 200 -
+2018-06-04 11:29:00,168 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:29:00] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:29:00,200 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:29:00] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:32:23,026 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:32:23,165 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:32:23,895 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:32:23,898 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:32:23,904 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:32:28,210 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:32:28] "GET / HTTP/1.1" 200 -
+2018-06-04 11:32:28,230 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:32:28] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:32:28,282 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:32:28] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:33:14,716 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:33:15,282 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:33:15,283 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:33:15,290 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:33:18,302 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:33:18] "GET / HTTP/1.1" 200 -
+2018-06-04 11:33:18,365 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:33:18] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:33:18,440 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:33:18] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:35:00,140 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:35:00,265 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:35:00,924 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:35:00,926 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:35:00,931 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:36:30,309 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:36:30,890 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:36:30,891 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:36:30,898 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:36:41,885 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:36:41] "GET / HTTP/1.1" 200 -
+2018-06-04 11:36:41,954 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:36:41] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:36:42,898 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:36:42] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:38:47,963 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:38:48,555 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:38:48,558 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:38:48,565 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:42:17,727 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:42:18,326 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:42:18,328 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:42:18,336 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:42:50,030 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:42:50,644 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:42:50,647 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:42:50,654 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:42:52,496 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:42:52] "GET / HTTP/1.1" 200 -
+2018-06-04 11:42:52,539 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:42:52] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:42:52,644 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:42:52] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:47:42,756 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:47:43,354 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:47:43,357 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:47:43,362 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:47:58,019 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:47:58] "GET / HTTP/1.1" 200 -
+2018-06-04 11:47:58,273 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:47:58] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:47:58,612 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:47:58] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:50:41,145 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:50:41,283 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:50:41,992 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:50:41,994 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:50:42,002 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:50:46,184 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:50:46] "GET / HTTP/1.1" 200 -
+2018-06-04 11:50:46,209 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:50:46] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:50:46,256 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:50:46] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:50:57,934 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:50:58,056 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:50:58,619 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:50:58,622 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:50:58,630 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:51:02,209 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:51:02,779 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:51:02,782 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:51:02,789 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:51:04,272 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:51:04] "GET / HTTP/1.1" 200 -
+2018-06-04 11:51:04,290 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:51:04] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:51:04,352 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:51:04] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:51:46,556 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:51:46,674 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:51:47,243 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:51:47,244 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:51:47,252 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:51:49,815 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:51:49] "GET / HTTP/1.1" 200 -
+2018-06-04 11:51:49,834 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:51:49] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:51:49,875 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:51:49] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:52:22,401 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:52:22,519 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:52:23,082 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:52:23,084 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:52:23,089 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:52:27,032 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:52:27,596 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:52:27,598 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:52:27,607 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:52:35,413 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:52:35] "GET / HTTP/1.1" 200 -
+2018-06-04 11:52:35,431 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:52:35] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:52:35,474 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:52:35] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:53:06,760 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:53:06,917 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:53:06,921 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:53:07,507 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:53:07,509 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:53:07,516 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:53:46,654 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:53:46,776 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:53:47,335 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:53:47,336 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:53:47,342 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8081/ (Press CTRL+C to quit)
+2018-06-04 11:53:51,688 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:53:51] "GET / HTTP/1.1" 200 -
+2018-06-04 11:53:51,934 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:53:51] "GET /static/css/bases.css HTTP/1.1" 200 -
+2018-06-04 11:53:51,944 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:53:51] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:53:51,984 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:53:51] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:53:54,443 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:53:54] "GET /download_data/8 HTTP/1.1" 500 -
+2018-06-04 11:53:54,459 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:53:54] "GET /download_data/8?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-04 11:53:54,460 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:53:54] "GET /download_data/8?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-04 11:53:54,464 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:53:54] "GET /download_data/8?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-04 11:53:54,506 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:53:54] "GET /download_data/8?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-04 11:53:54,586 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:53:54] "GET /download_data/8?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 11:53:54,615 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:53:54] "GET /download_data/8?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 11:53:57,529 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:53:57] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:54:47,157 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:54:47,282 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:54:47,845 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:54:47,848 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:54:47,855 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8081/ (Press CTRL+C to quit)
+2018-06-04 11:54:56,338 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:54:56,487 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:54:57,061 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:54:57,062 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:54:57,069 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8081/ (Press CTRL+C to quit)
+2018-06-04 11:54:57,381 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:54:57,931 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:54:57,934 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:54:57,940 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8081/ (Press CTRL+C to quit)
+2018-06-04 11:54:59,786 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:54:59] "GET / HTTP/1.1" 200 -
+2018-06-04 11:54:59,808 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:54:59] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:54:59,871 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:54:59] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:55:01,171 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:01] "GET /download_data/9 HTTP/1.1" 500 -
+2018-06-04 11:55:01,401 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:01] "GET /download_data/9?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-04 11:55:01,403 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:01] "GET /download_data/9?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-04 11:55:01,405 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:01] "GET /download_data/9?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-04 11:55:01,459 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:01] "GET /download_data/9?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-04 11:55:01,470 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:01] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 11:55:01,490 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:01] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 11:55:30,905 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:55:31,312 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:55:31,438 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:55:45,963 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:55:46,528 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:55:46,529 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:55:46,536 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8081/ (Press CTRL+C to quit)
+2018-06-04 11:55:47,572 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:47] "GET /download_data/9 HTTP/1.1" 500 -
+2018-06-04 11:55:47,799 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:47] "GET /download_data/9?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-04 11:55:47,802 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:47] "GET /download_data/9?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-04 11:55:47,805 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:47] "GET /download_data/9?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-04 11:55:47,832 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:47] "GET /download_data/9?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-04 11:55:47,857 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:47] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 11:55:47,875 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:47] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 11:55:51,631 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:51] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:55:53,426 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:53] "GET / HTTP/1.1" 200 -
+2018-06-04 11:55:53,456 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:53] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:55:53,496 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:53] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:55:54,665 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:54] "GET /download_data/9 HTTP/1.1" 500 -
+2018-06-04 11:55:54,687 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:54] "GET /download_data/9?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-04 11:55:54,690 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:54] "GET /download_data/9?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-04 11:55:54,694 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:54] "GET /download_data/9?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-04 11:55:54,717 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:54] "GET /download_data/9?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-04 11:55:54,744 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:54] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 11:55:59,400 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:55:59] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:56:11,865 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:56:11,992 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:56:12,559 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:56:12,562 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:56:12,569 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8081/ (Press CTRL+C to quit)
+2018-06-04 11:56:18,460 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:56:18] "GET / HTTP/1.1" 200 -
+2018-06-04 11:56:18,480 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:56:18] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:56:18,522 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:56:18] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:56:19,276 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:56:19] "GET / HTTP/1.1" 200 -
+2018-06-04 11:56:19,295 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:56:19] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:56:19,341 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:56:19] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:56:20,878 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:56:20] "GET /download_data/9 HTTP/1.1" 200 -
+2018-06-04 11:56:59,937 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:57:00,071 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:57:00,630 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:57:00,631 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:57:00,638 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8081/ (Press CTRL+C to quit)
+2018-06-04 11:57:02,428 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:57:03,023 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:57:03,026 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:57:03,032 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8081/ (Press CTRL+C to quit)
+2018-06-04 11:57:04,262 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:57:04] "GET / HTTP/1.1" 200 -
+2018-06-04 11:57:04,282 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:57:04] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:57:04,342 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:57:04] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:58:41,072 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:58:41,072 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:58:41,250 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:58:41,250 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:58:41,828 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:58:41,831 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:58:41,838 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 11:59:03,892 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 11:59:04,009 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 11:59:04,561 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 11:59:04,562 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 11:59:04,569 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8082/ (Press CTRL+C to quit)
+2018-06-04 11:59:10,226 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:59:10] "GET / HTTP/1.1" 200 -
+2018-06-04 11:59:10,440 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:59:10] "GET /static/css/bases.css HTTP/1.1" 200 -
+2018-06-04 11:59:10,450 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:59:10] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 11:59:10,487 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:59:10] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 11:59:12,127 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:59:12] "GET /download_data/9 HTTP/1.1" 500 -
+2018-06-04 11:59:12,148 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:59:12] "GET /download_data/9?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-04 11:59:12,151 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:59:12] "GET /download_data/9?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-04 11:59:12,157 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:59:12] "GET /download_data/9?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-04 11:59:12,213 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:59:12] "GET /download_data/9?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-04 11:59:12,240 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:59:12] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 11:59:12,266 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 11:59:12] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 12:00:42,226 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 12:00:42,351 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 12:00:42,908 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 12:00:42,911 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 12:00:42,917 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8082/ (Press CTRL+C to quit)
+2018-06-04 12:00:46,365 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 12:00:46,938 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 12:00:46,940 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 12:00:46,947 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8082/ (Press CTRL+C to quit)
+2018-06-04 12:00:49,573 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:00:49] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 12:00:50,032 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:00:50] "GET / HTTP/1.1" 200 -
+2018-06-04 12:00:50,053 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:00:50] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 12:00:50,095 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:00:50] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 12:00:51,378 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:00:51] "GET /download_data/9 HTTP/1.1" 500 -
+2018-06-04 12:00:51,601 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:00:51] "GET /download_data/9?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-04 12:00:51,602 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:00:51] "GET /download_data/9?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-04 12:00:51,608 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:00:51] "GET /download_data/9?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-04 12:00:51,676 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:00:51] "GET /download_data/9?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-04 12:00:51,693 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:00:51] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 12:09:48,270 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:09:48] "GET / HTTP/1.1" 200 -
+2018-06-04 12:09:48,289 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:09:48] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 12:09:48,401 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:09:48] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 12:09:49,884 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:09:49] "GET /download_data/9 HTTP/1.1" 500 -
+2018-06-04 12:09:49,903 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:09:49] "GET /download_data/9?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-04 12:09:49,904 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:09:49] "GET /download_data/9?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-04 12:09:49,911 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:09:49] "GET /download_data/9?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-04 12:09:49,933 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:09:49] "GET /download_data/9?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-04 12:09:50,007 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:09:50] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 12:09:52,598 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:09:52] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 12:10:16,052 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 12:10:16,052 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 12:10:16,213 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 12:10:16,213 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 12:10:16,818 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 12:10:16,819 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 12:10:16,826 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8082/ (Press CTRL+C to quit)
+2018-06-04 12:10:27,105 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:27] "GET / HTTP/1.1" 200 -
+2018-06-04 12:10:27,125 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:27] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 12:10:27,187 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:27] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 12:10:28,957 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:28] "GET /download_data/9 HTTP/1.1" 500 -
+2018-06-04 12:10:29,178 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:29] "GET /download_data/9?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-04 12:10:29,180 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:29] "GET /download_data/9?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-04 12:10:29,187 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:29] "GET /download_data/9?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-04 12:10:29,207 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:29] "GET /download_data/9?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-04 12:10:29,236 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:29] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 12:10:32,638 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:32] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 12:10:44,174 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 12:10:44,315 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 12:10:44,875 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 12:10:44,878 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 12:10:44,884 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8083/ (Press CTRL+C to quit)
+2018-06-04 12:10:46,734 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 12:10:47,292 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 12:10:47,293 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 12:10:47,299 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8083/ (Press CTRL+C to quit)
+2018-06-04 12:10:52,358 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:52] "GET / HTTP/1.1" 200 -
+2018-06-04 12:10:52,568 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:52] "GET /static/css/bases.css HTTP/1.1" 200 -
+2018-06-04 12:10:52,578 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:52] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 12:10:52,621 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:52] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 12:10:54,535 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:54] "GET /download_data/9 HTTP/1.1" 500 -
+2018-06-04 12:10:54,552 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:54] "GET /download_data/9?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-04 12:10:54,552 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:54] "GET /download_data/9?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-04 12:10:54,558 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:54] "GET /download_data/9?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-04 12:10:54,588 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:54] "GET /download_data/9?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-04 12:10:54,609 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:54] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 12:10:54,644 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:10:54] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 12:11:47,000 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 12:11:47,121 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 12:11:47,234 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 12:11:47,348 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 12:11:47,895 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 12:11:47,898 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 12:11:47,904 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8083/ (Press CTRL+C to quit)
+2018-06-04 12:11:50,578 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:11:50] "GET /download_data/9 HTTP/1.1" 500 -
+2018-06-04 12:11:50,789 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:11:50] "GET /download_data/9?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-04 12:11:50,789 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:11:50] "GET /download_data/9?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-04 12:11:50,793 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:11:50] "GET /download_data/9?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-04 12:11:50,815 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:11:50] "GET /download_data/9?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-04 12:11:50,844 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:11:50] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 12:11:50,868 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:11:50] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 12:11:51,489 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:11:51] "GET /download_data/9 HTTP/1.1" 500 -
+2018-06-04 12:11:51,513 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:11:51] "GET /download_data/9?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-04 12:11:51,516 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:11:51] "GET /download_data/9?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-04 12:11:51,526 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:11:51] "GET /download_data/9?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-04 12:11:51,549 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:11:51] "GET /download_data/9?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-04 12:11:51,578 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:11:51] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 12:11:51,605 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:11:51] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 12:11:56,328 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 12:11:56,453 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 12:11:57,013 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 12:11:57,015 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 12:11:57,022 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8083/ (Press CTRL+C to quit)
+2018-06-04 12:12:00,266 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 12:12:00,819 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 12:12:00,821 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 12:12:00,826 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8083/ (Press CTRL+C to quit)
+2018-06-04 12:12:02,910 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:12:02] "GET /download_data/9 HTTP/1.1" 200 -
+2018-06-04 12:12:04,079 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:12:04] "GET /download_data/9 HTTP/1.1" 200 -
+2018-06-04 12:12:04,931 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:12:04] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 12:14:15,015 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 12:14:15,141 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 12:14:15,262 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 12:14:15,378 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 12:14:15,927 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 12:14:15,928 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 12:14:15,936 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 12:14:16,994 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 12:14:17,111 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 12:14:17,660 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 12:14:17,661 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 12:14:17,668 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 12:14:18,236 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 12:14:18,789 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 12:14:18,789 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 12:14:18,796 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-04 12:14:25,987 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:14:25] "GET / HTTP/1.1" 200 -
+2018-06-04 12:14:26,009 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:14:26] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 12:14:26,061 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 12:14:26] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 14:24:30,746 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:24:30,822 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 14:24:31,010 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:24:31,013 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:24:31,473 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 14:24:31,476 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 14:24:31,487 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8085/ (Press CTRL+C to quit)
+2018-06-04 14:24:31,770 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 14:24:31,773 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 14:24:31,779 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8085/ (Press CTRL+C to quit)
+2018-06-04 14:24:37,877 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:24:37] "GET / HTTP/1.1" 200 -
+2018-06-04 14:24:38,095 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:24:38] "GET /static/css/bases.css HTTP/1.1" 200 -
+2018-06-04 14:24:38,104 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:24:38] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 14:24:38,168 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:24:38] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 14:24:40,539 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:24:40] "GET /download_data/9 HTTP/1.1" 200 -
+2018-06-04 14:25:58,680 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 14:25:58,835 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:25:58,848 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:25:59,463 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 14:25:59,466 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 14:25:59,466 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 14:25:59,473 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8085/ (Press CTRL+C to quit)
+2018-06-04 14:25:59,473 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8085/ (Press CTRL+C to quit)
+2018-06-04 14:26:11,086 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 14:26:11,244 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:26:11,252 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:26:11,890 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 14:26:11,891 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 14:26:11,898 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8085/ (Press CTRL+C to quit)
+2018-06-04 14:26:13,184 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:26:13,765 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 14:26:13,766 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 14:26:13,773 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8085/ (Press CTRL+C to quit)
+2018-06-04 14:26:16,384 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:26:16] "GET / HTTP/1.1" 200 -
+2018-06-04 14:26:16,404 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:26:16] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 14:26:16,460 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:26:16] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 14:26:19,579 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:26:19] "GET /download_data/8 HTTP/1.1" 500 -
+2018-06-04 14:26:19,811 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:26:19] "GET /download_data/8?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-04 14:26:19,813 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:26:19] "GET /download_data/8?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-04 14:26:19,815 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:26:19] "GET /download_data/8?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-04 14:26:19,838 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:26:19] "GET /download_data/8?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-04 14:26:19,867 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:26:19] "GET /download_data/8?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 14:26:19,891 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:26:19] "GET /download_data/8?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 14:26:52,109 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 14:26:52,109 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 14:26:52,316 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:26:52,318 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:26:52,325 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:26:53,122 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 14:26:53,122 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 14:26:53,125 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 14:26:53,125 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 14:26:53,131 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8085/ (Press CTRL+C to quit)
+2018-06-04 14:26:53,131 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8085/ (Press CTRL+C to quit)
+2018-06-04 14:26:56,141 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:26:56] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 14:26:56,796 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:26:56] "GET / HTTP/1.1" 200 -
+2018-06-04 14:26:56,822 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:26:56] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 14:26:56,884 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:26:56] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 14:27:36,358 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:27:36,576 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 14:27:36,576 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 14:27:36,766 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:27:36,780 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:27:37,078 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 14:27:37,081 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 14:27:37,086 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8084/ (Press CTRL+C to quit)
+2018-06-04 14:27:40,002 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:27:40] "GET / HTTP/1.1" 200 -
+2018-06-04 14:27:40,223 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:27:40] "GET /static/css/bases.css HTTP/1.1" 200 -
+2018-06-04 14:27:40,232 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:27:40] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 14:27:40,283 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:27:40] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 14:27:41,486 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:27:41] "GET /download_data/9 HTTP/1.1" 500 -
+2018-06-04 14:27:41,510 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:27:41] "GET /download_data/9?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-04 14:27:41,512 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:27:41] "GET /download_data/9?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-04 14:27:41,515 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:27:41] "GET /download_data/9?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-04 14:27:41,536 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:27:41] "GET /download_data/9?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-04 14:27:41,566 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:27:41] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 14:27:41,596 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:27:41] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 14:28:35,119 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:28:35] "GET /download_data/9 HTTP/1.1" 500 -
+2018-06-04 14:28:35,137 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:28:35] "GET /download_data/9?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-04 14:28:35,138 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:28:35] "GET /download_data/9?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-04 14:28:35,144 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:28:35] "GET /download_data/9?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-04 14:28:35,164 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:28:35] "GET /download_data/9?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-04 14:28:35,194 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:28:35] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 14:28:35,216 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:28:35] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 14:29:24,992 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 14:29:25,128 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:29:25,696 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 14:29:25,697 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 14:29:25,704 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8084/ (Press CTRL+C to quit)
+2018-06-04 14:29:27,665 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:29:28,234 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 14:29:28,236 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 14:29:28,243 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8084/ (Press CTRL+C to quit)
+2018-06-04 14:29:30,773 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:29:30] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 14:29:31,348 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:29:31] "GET / HTTP/1.1" 200 -
+2018-06-04 14:29:31,374 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:29:31] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 14:29:31,418 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:29:31] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 14:29:32,878 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:29:32] "GET /download_data/9 HTTP/1.1" 500 -
+2018-06-04 14:29:33,099 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:29:33] "GET /download_data/9?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-04 14:29:33,101 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:29:33] "GET /download_data/9?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-04 14:29:33,105 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:29:33] "GET /download_data/9?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-04 14:29:33,128 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:29:33] "GET /download_data/9?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-04 14:29:33,157 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:29:33] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 14:29:36,632 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:29:36] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 14:29:57,688 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:29:57] "GET / HTTP/1.1" 200 -
+2018-06-04 14:29:57,710 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:29:57] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 14:29:57,779 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:29:57] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 14:30:00,088 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:30:00] "GET /download_data/9 HTTP/1.1" 500 -
+2018-06-04 14:30:00,099 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:30:00] "GET /download_data/9?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-04 14:30:00,101 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:30:00] "GET /download_data/9?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-04 14:30:00,108 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:30:00] "GET /download_data/9?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-04 14:30:00,131 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:30:00] "GET /download_data/9?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-04 14:30:00,160 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:30:00] "GET /download_data/9?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-04 14:30:21,072 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 14:30:21,072 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 14:30:21,232 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:30:21,237 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:30:21,816 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 14:30:21,819 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 14:30:21,826 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8084/ (Press CTRL+C to quit)
+2018-06-04 14:30:26,928 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:30:26] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 14:30:27,450 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:30:27] "GET / HTTP/1.1" 200 -
+2018-06-04 14:30:27,480 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:30:27] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 14:30:27,523 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:30:27] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 14:30:28,773 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:30:28] "GET /download_data/9 HTTP/1.1" 200 -
+2018-06-04 14:31:09,181 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-04 14:31:09,306 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:31:09,864 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 14:31:09,865 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 14:31:09,872 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8084/ (Press CTRL+C to quit)
+2018-06-04 14:31:11,377 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-04 14:31:11,947 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-04 14:31:11,948 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-04 14:31:11,956 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8084/ (Press CTRL+C to quit)
+2018-06-04 14:31:14,276 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:31:14] "GET / HTTP/1.1" 200 -
+2018-06-04 14:31:14,296 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:31:14] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-04 14:31:14,392 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:31:14] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-04 14:31:15,786 _internal.py[line:88] INFO 127.0.0.1 - - [04/Jun/2018 14:31:15] "GET /download_data/8 HTTP/1.1" 200 -
+2018-06-06 15:40:09,615 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 15:40:10,263 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 15:40:10,286 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 15:40:10,381 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8084/ (Press CTRL+C to quit)
+2018-06-06 15:41:08,234 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 15:41:08,358 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 15:41:08,914 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 15:41:08,915 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 15:41:08,923 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8084/ (Press CTRL+C to quit)
+2018-06-06 15:41:27,055 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 15:41:27,187 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 15:41:27,437 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 15:41:27,803 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 15:41:27,806 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 15:41:27,816 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 15:41:28,046 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 15:41:28,049 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 15:41:28,055 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 15:41:31,640 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:31] "GET / HTTP/1.1" 200 -
+2018-06-06 15:41:31,904 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:31] "GET /static/css/bases.css HTTP/1.1" 304 -
+2018-06-06 15:41:31,930 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:31] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:41:32,927 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:32] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:41:37,140 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:37] "GET /run_time/5 HTTP/1.1" 302 -
+2018-06-06 15:41:37,177 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:37] "GET /%E6%AD%A4%E4%BB%BB%E5%8A%A1%E8%BF%90%E8%A1%8C%E6%97%B6%E9%97%B4%EF%BC%9Adsdad HTTP/1.1" 200 -
+2018-06-06 15:41:37,187 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:37] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:41:39,713 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:39] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:41:41,723 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:41] "GET /remove/5 HTTP/1.1" 302 -
+2018-06-06 15:41:41,739 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:41] "GET /%E4%BB%BB%E5%8A%A1%E5%B7%B2%E9%87%8D%E7%BD%AE%21 HTTP/1.1" 200 -
+2018-06-06 15:41:41,756 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:41] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:41:42,996 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:42] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:41:46,125 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:46] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:41:47,076 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:47] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 15:41:47,115 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:47] "GET /static/css/login_regist.css HTTP/1.1" 200 -
+2018-06-06 15:41:47,118 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:47] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:41:47,168 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:47] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:41:47,953 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:47] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 15:41:47,976 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:47] "GET / HTTP/1.1" 200 -
+2018-06-06 15:41:47,990 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:47] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:41:48,043 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:48] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:41:50,210 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:50] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:41:55,273 test4.py[line:380] INFO {'username': u'huanghong', 'start_time': datetime.datetime(2018, 6, 6, 15, 41), 'hours': u'', 'second': u'', 'password': u'huanghong', 'minute': u'', 'days': u'', 'end_time': u'', 'weeks': None, 'question_id': u'5', 'mode': u'interval'}
+2018-06-06 15:41:55,352 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:55] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 15:41:55,377 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:55] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 15:41:55,390 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:55] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 15:41:55,401 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:55] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 15:41:55,428 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:55] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 15:41:55,523 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:55] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 15:41:55,549 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:41:55] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 15:42:22,394 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 15:42:22,552 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 15:42:22,561 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 15:42:23,210 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 15:42:23,211 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 15:42:23,217 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 15:42:23,631 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 15:42:24,200 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 15:42:24,201 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 15:42:24,207 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 15:42:26,997 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:26] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 15:42:27,233 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:27] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 15:42:27,234 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:27] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 15:42:27,239 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:27] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 15:42:27,259 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:27] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 15:42:27,289 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:27] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 15:42:27,309 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:27] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 15:42:42,443 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:42] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:42:45,463 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:45] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:42:46,848 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:46] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 15:42:46,867 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:46] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 15:42:46,869 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:46] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 15:42:46,878 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:46] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 15:42:46,898 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:46] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 15:42:46,926 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:46] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 15:42:49,961 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:49] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:42:50,855 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:50] "GET / HTTP/1.1" 200 -
+2018-06-06 15:42:50,885 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:50] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:42:50,931 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:50] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:42:52,486 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:52] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 15:42:52,507 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:52] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:42:52,552 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:52] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:42:53,391 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:53] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 15:42:53,413 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:53] "GET / HTTP/1.1" 200 -
+2018-06-06 15:42:53,427 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:53] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:42:53,482 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:53] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:42:54,486 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:54] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:42:55,858 test4.py[line:380] INFO {'username': u'huanghong', 'start_time': datetime.datetime(2018, 6, 6, 15, 42), 'hours': u'', 'second': u'', 'password': u'huanghong', 'minute': u'', 'days': u'', 'end_time': u'', 'weeks': None, 'question_id': u'5', 'mode': u'interval'}
+2018-06-06 15:42:55,898 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:55] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 15:42:55,915 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:55] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 15:42:55,917 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:55] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 15:42:55,924 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:55] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 15:42:55,950 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:55] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 15:42:55,979 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:42:55] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 15:43:25,690 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 15:43:25,812 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 15:43:26,374 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 15:43:26,375 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 15:43:26,382 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 15:43:29,851 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:29] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 15:43:30,068 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:30] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 15:43:30,069 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:30] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 15:43:30,072 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:30] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 15:43:30,094 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:30] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 15:43:30,105 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:30] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 15:43:30,148 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:30] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 15:43:33,848 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:33] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:43:34,404 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:34] "GET / HTTP/1.1" 200 -
+2018-06-06 15:43:34,430 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:34] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:43:34,473 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:34] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:43:35,440 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:35] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 15:43:35,467 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:35] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:43:35,506 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:35] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:43:36,460 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:36] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 15:43:36,476 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:36] "GET / HTTP/1.1" 200 -
+2018-06-06 15:43:36,490 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:36] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:43:36,552 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:36] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:43:37,898 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:37] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:43:38,766 test4.py[line:380] INFO {'username': u'huanghong', 'start_time': datetime.datetime(2018, 6, 6, 15, 43), 'hours': u'', 'second': u'', 'password': u'huanghong', 'minute': u'', 'days': u'', 'end_time': u'', 'weeks': None, 'question_id': u'5', 'mode': u'interval'}
+2018-06-06 15:43:38,795 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:38] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 15:43:38,805 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:38] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 15:43:38,808 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:38] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 15:43:38,813 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:38] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 15:43:38,835 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:38] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 15:43:38,872 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:43:38] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 15:45:41,263 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:45:41] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:52:17,242 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:52:17] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:53:36,734 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 15:53:36,858 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 15:53:37,631 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 15:53:37,632 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 15:53:37,638 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 15:53:41,095 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 15:53:41,663 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 15:53:41,664 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 15:53:41,671 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 15:53:42,997 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:42] "GET / HTTP/1.1" 200 -
+2018-06-06 15:53:43,019 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:43] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:53:43,118 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:43] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:53:44,210 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:44] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 15:53:44,232 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:44] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:53:44,302 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:44] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:53:45,138 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:45] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 15:53:45,174 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:45] "GET / HTTP/1.1" 200 -
+2018-06-06 15:53:45,187 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:45] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:53:45,262 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:45] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:53:47,142 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:47] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:53:48,500 test4.py[line:380] INFO {'username': u'huanghong', 'start_time': datetime.datetime(2018, 6, 6, 15, 53), 'hours': u'', 'second': u'', 'password': u'huanghong', 'minute': u'', 'days': u'', 'end_time': u'', 'weeks': None, 'question_id': u'5', 'mode': u'interval'}
+2018-06-06 15:53:48,502 test4.py[line:381] INFO 2018-06-06 15:53:00
+2018-06-06 15:53:48,502 test4.py[line:382] INFO <type 'datetime.datetime'>
+2018-06-06 15:53:48,516 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:48] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 15:53:48,736 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:48] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 15:53:48,739 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:48] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 15:53:48,743 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:48] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 15:53:48,779 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:48] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 15:53:48,796 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:53:48] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 15:55:13,443 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:55:13] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:55:17,444 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:55:17] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:55:18,737 test4.py[line:380] INFO {'username': u'huanghong', 'start_time': datetime.datetime(2018, 6, 6, 15, 55), 'hours': u'', 'second': u'', 'password': u'huanghong', 'minute': u'', 'days': u'', 'end_time': u'', 'weeks': None, 'question_id': u'5', 'mode': u'interval'}
+2018-06-06 15:55:18,737 test4.py[line:381] INFO 2018-06-06 15:55:00
+2018-06-06 15:55:18,737 test4.py[line:382] INFO <type 'datetime.datetime'>
+2018-06-06 15:55:18,753 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:55:18] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 15:55:18,773 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:55:18] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 15:55:18,776 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:55:18] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 15:55:18,779 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:55:18] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 15:55:18,802 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:55:18] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 15:55:18,815 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:55:18] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 15:59:10,546 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 15:59:10,703 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 15:59:10,713 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 15:59:11,438 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 15:59:11,440 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 15:59:11,447 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 15:59:13,451 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 15:59:14,019 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 15:59:14,020 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 15:59:14,026 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 15:59:17,430 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:17] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:59:18,657 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:18] "GET / HTTP/1.1" 200 -
+2018-06-06 15:59:18,681 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:18] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:59:18,724 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:18] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:59:19,680 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:19] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 15:59:19,694 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:19] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:59:19,742 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:19] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:59:20,548 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:20] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 15:59:20,562 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:20] "GET / HTTP/1.1" 200 -
+2018-06-06 15:59:20,575 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:20] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 15:59:20,634 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:20] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:59:21,645 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:21] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 15:59:22,667 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:22] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 15:59:22,894 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:22] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 15:59:22,895 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:22] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 15:59:22,950 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:22] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 15:59:22,987 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:22] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 15:59:23,016 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 15:59:23] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 16:00:08,141 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:00:08,266 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:00:08,927 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:00:09,009 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:00:09,017 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:00:09,035 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:00:09,138 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:00:09,161 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:00:09,224 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:00:09,342 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:00:09,871 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:00:09,874 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:00:09,927 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:00:10,131 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:00:10,157 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:00:10,158 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:00:10,194 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:00:10,198 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:00:10,227 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:00:10,614 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:00:10,615 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:00:10,624 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:00:10,861 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:00:10,862 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:00:10,869 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:00:11,940 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:11] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:00:12,196 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:12] "GET / HTTP/1.1" 200 -
+2018-06-06 16:00:12,227 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:12] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:00:12,267 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:12] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:00:13,158 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:13] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 16:00:13,709 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:13] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:00:13,739 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:13] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:00:14,588 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:14] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 16:00:14,602 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:14] "GET / HTTP/1.1" 200 -
+2018-06-06 16:00:14,615 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:14] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:00:14,674 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:14] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:00:16,404 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:16] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:00:17,209 test4.py[line:380] INFO {'username': u'huanghong', 'start_time': datetime.datetime(2018, 6, 6, 16, 0), 'hours': u'', 'second': u'', 'password': u'huanghong', 'minute': u'', 'days': u'', 'end_time': u'', 'weeks': None, 'question_id': u'5', 'mode': u'interval'}
+2018-06-06 16:00:17,209 test4.py[line:381] INFO 2018-06-06T16:00
+2018-06-06 16:00:17,209 test4.py[line:382] INFO <type 'unicode'>
+2018-06-06 16:00:17,216 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:17] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 16:00:17,436 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:17] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 16:00:17,437 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:17] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 16:00:17,450 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:17] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 16:00:17,470 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:17] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 16:00:17,483 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:00:17] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 16:01:54,994 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:01:54,994 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:01:54,994 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:01:54,994 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:01:55,210 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:01:55,253 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:01:55,292 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:01:55,301 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:01:55,301 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:01:55,456 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:01:56,522 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:01:56,525 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:01:56,545 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:01:56,548 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:01:56,619 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:01:56,621 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:01:56,627 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:01:56,628 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:01:56,634 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:01:56,779 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:01:56,782 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:01:56,789 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:01:56,821 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:01:56,822 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:01:56,831 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:02:01,861 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:02:01,974 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:02:02,096 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:02:02,096 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:02:02,276 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:02:02,282 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:02:02,651 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:02:02,654 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:02:02,661 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:02:02,943 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:02:02,943 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:02:02,944 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:02:02,944 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:02:02,951 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:02:02,951 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:02:06,418 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:02:06,974 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:02:06,977 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:02:06,983 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:02:11,023 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:11] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:02:11,770 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:11] "GET / HTTP/1.1" 200 -
+2018-06-06 16:02:11,799 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:11] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:02:11,839 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:11] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:02:12,832 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:12] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 16:02:12,851 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:12] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:02:12,894 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:12] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:02:13,608 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:13] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 16:02:13,621 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:13] "GET / HTTP/1.1" 200 -
+2018-06-06 16:02:13,634 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:13] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:02:13,696 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:13] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:02:15,984 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:15] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:02:17,688 test4.py[line:380] INFO {'username': u'huanghong', 'start_time': datetime.datetime(2018, 6, 6, 16, 2), 'hours': u'', 'second': u'', 'password': u'huanghong', 'minute': u'', 'days': u'', 'end_time': u'', 'weeks': None, 'question_id': u'5', 'mode': u'interval'}
+2018-06-06 16:02:17,700 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:17] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 16:02:17,917 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:17] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 16:02:17,921 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:17] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 16:02:17,926 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:17] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 16:02:17,947 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:17] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 16:02:17,960 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:02:17] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 16:02:38,859 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:02:38,859 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:02:39,022 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:02:39,023 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:02:39,637 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:02:39,637 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:02:39,683 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:02:39,684 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:02:39,690 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:02:39,691 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:02:39,740 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:02:39,740 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:02:39,825 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:02:39,832 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:02:40,405 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:02:40,407 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:02:40,415 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:02:48,880 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:02:49,437 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:02:49,440 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:02:49,447 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:03:01,342 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:01] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:03:02,071 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:02] "GET / HTTP/1.1" 200 -
+2018-06-06 16:03:02,088 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:02] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:03:02,131 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:02] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:03:04,996 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:04] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:03:05,757 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:05] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 16:03:05,779 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:05] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:03:05,828 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:05] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:03:06,533 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:06] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 16:03:06,555 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:06] "GET / HTTP/1.1" 200 -
+2018-06-06 16:03:06,566 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:06] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:03:06,625 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:06] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:03:07,641 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:07] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:03:08,855 test4.py[line:380] INFO {'username': u'huanghong', 'start_time': datetime.datetime(2018, 6, 6, 16, 3), 'hours': u'', 'second': u'', 'password': u'huanghong', 'minute': u'', 'days': u'', 'end_time': u'', 'weeks': None, 'question_id': u'5', 'mode': u'interval'}
+2018-06-06 16:03:08,874 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:08] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 16:03:09,092 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:09] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 16:03:09,095 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:09] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 16:03:09,101 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:09] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 16:03:09,121 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:09] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 16:03:09,134 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:03:09] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 16:04:29,423 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:04:29,423 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:04:29,496 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:04:29,632 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:04:29,700 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:04:29,707 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:04:29,871 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:04:30,428 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:04:30,430 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:04:30,483 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:04:30,543 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:04:30,650 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:04:30,651 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:04:30,703 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:04:30,749 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:04:30,881 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:04:30,884 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:04:30,890 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:04:31,336 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:04:31,338 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:04:31,345 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:04:31,368 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:04:31,371 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:04:31,377 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:04:32,950 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:32] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:04:33,608 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:33] "GET / HTTP/1.1" 200 -
+2018-06-06 16:04:33,634 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:33] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:04:33,671 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:33] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:04:35,262 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:35] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 16:04:35,280 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:35] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:04:35,323 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:35] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:04:36,117 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:36] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 16:04:36,138 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:36] "GET / HTTP/1.1" 200 -
+2018-06-06 16:04:36,155 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:36] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:04:36,220 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:36] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:04:37,121 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:37] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:04:38,746 test4.py[line:380] INFO {'username': u'huanghong', 'start_time': datetime.datetime(2018, 6, 6, 16, 4), 'hours': u'', 'second': u'', 'password': u'huanghong', 'minute': u'', 'days': u'', 'end_time': u'', 'weeks': None, 'question_id': u'5', 'mode': u'interval'}
+2018-06-06 16:04:38,759 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:38] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 16:04:38,986 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:38] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 16:04:38,990 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:38] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 16:04:38,994 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:38] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 16:04:39,016 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:39] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 16:04:39,026 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:04:39] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 16:05:44,834 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:05:44,834 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:05:44,834 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:05:45,089 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:05:45,099 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:05:45,101 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:05:45,210 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:05:45,276 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:05:46,013 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:05:46,016 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:05:46,046 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:05:46,049 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:05:46,069 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:05:46,071 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:05:46,098 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:05:46,099 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:05:46,108 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:05:46,194 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:05:46,196 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:05:46,201 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:05:46,982 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:05:47,553 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:05:47,555 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:05:47,562 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:05:49,007 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:49] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:05:49,707 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:49] "GET / HTTP/1.1" 200 -
+2018-06-06 16:05:49,733 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:49] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:05:49,776 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:49] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:05:52,513 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:52] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:05:53,190 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:53] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 16:05:53,203 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:53] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:05:53,252 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:53] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:05:53,940 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:53] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 16:05:53,959 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:53] "GET / HTTP/1.1" 200 -
+2018-06-06 16:05:53,974 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:53] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:05:54,032 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:54] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:05:54,811 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:54] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:05:55,734 test4.py[line:380] INFO {'username': u'huanghong', 'start_time': datetime.datetime(2018, 6, 6, 16, 5), 'hours': u'', 'second': u'', 'password': u'huanghong', 'minute': u'', 'days': u'', 'end_time': u'', 'weeks': None, 'question_id': u'5', 'mode': u'interval'}
+2018-06-06 16:05:55,746 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:55] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 16:05:55,966 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:55] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 16:05:55,967 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:55] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 16:05:55,971 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:55] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 16:05:55,993 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:55] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 16:05:56,003 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:05:56] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 16:06:07,653 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:06:07,766 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:06:08,221 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:06:08,223 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:06:08,255 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:06:08,434 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:06:08,436 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:06:08,493 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:06:08,497 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:06:08,503 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:06:08,553 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:06:08,615 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:06:09,269 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:06:09,272 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:06:09,279 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:06:09,279 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:06:09,364 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:06:09,365 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:06:09,371 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:06:12,565 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:12] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:06:13,076 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:13] "GET / HTTP/1.1" 200 -
+2018-06-06 16:06:13,099 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:13] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:06:13,141 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:13] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:06:15,503 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:06:16,081 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:06:16,082 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:06:16,088 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:06:17,177 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:17] "GET / HTTP/1.1" 200 -
+2018-06-06 16:06:17,193 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:17] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:06:17,250 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:17] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:06:20,289 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:20] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 16:06:20,311 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:20] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:06:20,358 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:20] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:06:21,155 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:21] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 16:06:21,171 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:21] "GET / HTTP/1.1" 200 -
+2018-06-06 16:06:21,187 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:21] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:06:21,243 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:21] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:06:22,230 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:22] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:06:22,992 test4.py[line:380] INFO {'username': u'huanghong', 'start_time': datetime.datetime(2018, 6, 6, 16, 6), 'hours': u'', 'second': u'', 'password': u'huanghong', 'minute': u'', 'days': u'', 'end_time': u'', 'weeks': None, 'question_id': u'5', 'mode': u'interval'}
+2018-06-06 16:06:23,003 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:23] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 16:06:23,230 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:23] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 16:06:23,232 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:23] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 16:06:23,236 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:23] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 16:06:23,256 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:23] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 16:06:23,283 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:23] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 16:06:30,747 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:06:30] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:06:43,209 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:06:43,210 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:06:43,210 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:06:43,339 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:06:43,433 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:06:43,460 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:06:43,479 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:06:43,539 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:06:43,723 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:06:43,891 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:06:44,223 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:06:44,224 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:06:44,230 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:06:44,348 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:06:44,348 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:06:44,355 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:06:44,586 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:06:44,588 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:06:44,596 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:11:07,155 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:11:07,315 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:11:07,315 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:11:07,378 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:11:07,526 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:11:08,065 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:11:08,068 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:11:08,082 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:11:08,085 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:11:08,128 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:11:08,134 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:11:08,290 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:11:08,292 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:11:08,299 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:11:08,319 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:11:08,877 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:11:08,878 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:11:08,884 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:11:12,772 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:12] "GET / HTTP/1.1" 200 -
+2018-06-06 16:11:12,789 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:12] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:11:12,894 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:12] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:11:15,022 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:15] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 16:11:15,039 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:15] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:11:15,101 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:15] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:11:15,980 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:15] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 16:11:16,009 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:16] "GET / HTTP/1.1" 200 -
+2018-06-06 16:11:16,023 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:16] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:11:16,095 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:16] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:11:16,934 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:16] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:11:17,914 test4.py[line:380] INFO {'username': u'huanghong', 'start_time': datetime.datetime(2018, 6, 6, 16, 11), 'hours': u'', 'second': u'', 'password': u'huanghong', 'minute': u'', 'days': u'', 'end_time': u'', 'weeks': None, 'question_id': u'5', 'mode': u'interval'}
+2018-06-06 16:11:17,914 test4.py[line:381] INFO 2018-06-06 16:11:00
+2018-06-06 16:11:17,914 test4.py[line:382] INFO ['__add__', '__class__', '__delattr__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__ne__', '__new__', '__radd__', '__reduce__', '__reduce_ex__', '__repr__', '__rsub__', '__setattr__', '__sizeof__', '__str__', '__sub__', '__subclasshook__', 'astimezone', 'combine', 'ctime', 'date', 'day', 'dst', 'fromordinal', 'fromtimestamp', 'hour', 'isocalendar', 'isoformat', 'isoweekday', 'max', 'microsecond', 'min', 'minute', 'month', 'now', 'replace', 'resolution', 'second', 'strftime', 'strptime', 'time', 'timetuple', 'timetz', 'today', 'toordinal', 'tzinfo', 'tzname', 'utcfromtimestamp', 'utcnow', 'utcoffset', 'utctimetuple', 'weekday', 'year']
+2018-06-06 16:11:17,930 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:17] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 16:11:18,151 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:18] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 16:11:18,153 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:18] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 16:11:18,155 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:18] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 16:11:18,177 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:18] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 16:11:18,210 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:11:18] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 16:12:36,831 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:12:36,831 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:12:37,088 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:12:37,092 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:12:37,101 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:12:37,108 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:12:37,844 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:12:37,845 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:12:37,857 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:12:37,877 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:12:37,878 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:12:37,884 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:12:37,911 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:12:37,913 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:12:37,921 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:12:42,571 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:12:43,130 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:12:43,131 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:12:43,138 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:12:48,124 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:12:48,369 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:12:48,369 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:12:48,371 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:12:48,375 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:12:48,602 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:12:48,648 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:12:48,730 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:12:48,742 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:12:49,141 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:12:49,144 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:12:49,364 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:12:49,539 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:12:49,542 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:12:49,592 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:12:49,595 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:12:49,598 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:12:49,604 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:12:49,670 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:12:49,671 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:12:49,677 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:12:49,703 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:12:49,706 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:12:49,721 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:12:50,825 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:50] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:12:51,461 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:51] "GET / HTTP/1.1" 200 -
+2018-06-06 16:12:51,483 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:51] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:12:51,526 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:51] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:12:53,937 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:53] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:12:54,575 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:54] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 16:12:54,591 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:54] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:12:54,634 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:54] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:12:55,201 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:55] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 16:12:55,223 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:55] "GET / HTTP/1.1" 200 -
+2018-06-06 16:12:55,237 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:55] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:12:55,292 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:55] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:12:55,990 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:55] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:12:57,069 test4.py[line:380] INFO {'username': u'huanghong', 'start_time': datetime.datetime(2018, 6, 6, 16, 12), 'hours': u'', 'second': u'', 'password': u'huanghong', 'minute': u'', 'days': u'', 'end_time': u'', 'weeks': None, 'question_id': u'5', 'mode': u'interval'}
+2018-06-06 16:12:57,069 test4.py[line:381] INFO 10
+2018-06-06 16:12:57,069 test4.py[line:382] INFO ['__add__', '__class__', '__delattr__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__ne__', '__new__', '__radd__', '__reduce__', '__reduce_ex__', '__repr__', '__rsub__', '__setattr__', '__sizeof__', '__str__', '__sub__', '__subclasshook__', 'astimezone', 'combine', 'ctime', 'date', 'day', 'dst', 'fromordinal', 'fromtimestamp', 'hour', 'isocalendar', 'isoformat', 'isoweekday', 'max', 'microsecond', 'min', 'minute', 'month', 'now', 'replace', 'resolution', 'second', 'strftime', 'strptime', 'time', 'timetuple', 'timetz', 'today', 'toordinal', 'tzinfo', 'tzname', 'utcfromtimestamp', 'utcnow', 'utcoffset', 'utctimetuple', 'weekday', 'year']
+2018-06-06 16:12:57,075 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:57] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 16:12:57,296 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:57] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 16:12:57,299 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:57] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 16:12:57,305 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:57] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 16:12:57,326 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:57] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 16:12:57,338 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:12:57] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 16:13:43,813 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:13:43,813 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:13:43,813 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:13:44,063 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:13:44,078 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:13:44,079 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:13:44,082 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:13:44,443 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:13:44,891 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:13:44,911 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:13:44,914 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:13:44,924 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:13:44,927 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:13:44,944 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:13:44,947 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:13:44,953 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:13:44,957 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:13:44,973 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:13:45,112 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:13:45,115 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:13:45,142 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:13:45,698 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:13:45,769 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:13:46,374 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:13:46,375 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:13:46,381 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:13:46,417 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:13:46,421 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:13:46,430 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:13:46,697 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:46] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:13:47,200 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:47] "GET / HTTP/1.1" 200 -
+2018-06-06 16:13:47,224 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:47] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:13:47,267 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:47] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:13:48,621 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:48] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 16:13:48,634 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:48] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:13:48,686 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:48] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:13:49,453 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:49] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 16:13:49,473 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:49] "GET / HTTP/1.1" 200 -
+2018-06-06 16:13:49,490 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:49] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:13:49,549 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:49] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:13:50,282 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:50] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:13:51,252 test4.py[line:380] INFO {'username': u'huanghong', 'start_time': datetime.datetime(2018, 6, 6, 16, 13), 'hours': u'', 'second': u'', 'password': u'huanghong', 'minute': u'', 'days': u'', 'end_time': u'', 'weeks': None, 'question_id': u'5', 'mode': u'interval'}
+2018-06-06 16:13:51,252 test4.py[line:381] INFO 0
+2018-06-06 16:13:51,252 test4.py[line:382] INFO ['__add__', '__class__', '__delattr__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__ne__', '__new__', '__radd__', '__reduce__', '__reduce_ex__', '__repr__', '__rsub__', '__setattr__', '__sizeof__', '__str__', '__sub__', '__subclasshook__', 'astimezone', 'combine', 'ctime', 'date', 'day', 'dst', 'fromordinal', 'fromtimestamp', 'hour', 'isocalendar', 'isoformat', 'isoweekday', 'max', 'microsecond', 'min', 'minute', 'month', 'now', 'replace', 'resolution', 'second', 'strftime', 'strptime', 'time', 'timetuple', 'timetz', 'today', 'toordinal', 'tzinfo', 'tzname', 'utcfromtimestamp', 'utcnow', 'utcoffset', 'utctimetuple', 'weekday', 'year']
+2018-06-06 16:13:51,267 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:51] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 16:13:51,519 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:51] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 16:13:51,522 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:51] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 16:13:51,526 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:51] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 16:13:51,548 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:51] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 16:13:51,559 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:13:51] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 16:15:05,700 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:15:05,858 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:15:05,861 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:15:06,490 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:15:06,492 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:15:06,533 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:15:06,536 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:15:06,553 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:15:06,625 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:15:06,628 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:15:06,737 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:15:06,740 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:15:06,743 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:15:06,786 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:15:06,822 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:15:06,857 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:15:07,618 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:15:07,621 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:15:07,627 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:15:07,630 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:15:07,637 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:15:07,664 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:15:07,671 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:15:07,681 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:15:07,690 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:15:07,690 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:15:07,694 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:15:07,703 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:15:11,755 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:15:12,351 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:15:12,354 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:15:12,361 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:15:13,598 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:13] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:15:14,461 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:14] "GET / HTTP/1.1" 200 -
+2018-06-06 16:15:14,487 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:14] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:15:14,529 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:14] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:15:15,851 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:15] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 16:15:15,868 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:15] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:15:15,914 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:15] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:15:16,762 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:16] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 16:15:16,792 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:16] "GET / HTTP/1.1" 200 -
+2018-06-06 16:15:16,805 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:16] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:15:16,865 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:16] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:15:18,707 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:18] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:15:19,780 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:19] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 16:15:19,996 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:19] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 16:15:19,997 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:19] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 16:15:20,002 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:20] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 16:15:20,023 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:20] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 16:15:20,033 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:15:20] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 16:17:22,581 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:17:22,581 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:17:22,581 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:17:22,581 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:17:22,825 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:17:22,849 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:17:22,852 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:17:22,857 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:17:22,986 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:17:23,197 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:17:23,704 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:17:23,707 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:17:23,727 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:17:23,746 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:17:23,749 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:17:23,756 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:17:23,898 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:17:23,901 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:17:23,907 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:17:26,227 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:17:26,796 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:17:26,799 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:17:26,809 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:17:30,249 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:30] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:17:31,157 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:31] "GET / HTTP/1.1" 200 -
+2018-06-06 16:17:31,180 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:31] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:17:31,221 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:31] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:17:32,144 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:32] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 16:17:32,171 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:32] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:17:32,211 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:32] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:17:33,003 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:33] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 16:17:33,032 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:33] "GET / HTTP/1.1" 200 -
+2018-06-06 16:17:33,046 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:33] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:17:33,108 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:33] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:17:33,822 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:33] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:17:34,742 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:34] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 16:17:34,971 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:34] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 16:17:34,974 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:34] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 16:17:34,977 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:34] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 16:17:35,000 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:34] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 16:17:35,010 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:17:35] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 16:26:07,184 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:26:07,184 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:26:07,184 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:26:07,431 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:26:07,433 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:26:07,457 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:26:07,506 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:26:08,405 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:26:08,407 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:26:08,431 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:26:08,460 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:26:08,461 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:26:08,530 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:26:08,532 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:26:08,539 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:26:08,711 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:26:09,075 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:26:09,325 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:26:09,331 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:26:09,364 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:26:09,917 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:26:09,921 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:26:10,015 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:26:10,134 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:26:10,137 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:26:10,142 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:26:10,236 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:26:10,239 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:26:10,244 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:26:10,262 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:26:10,263 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:26:10,269 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:26:14,378 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:14] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:26:14,390 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:14] "GET / HTTP/1.1" 200 -
+2018-06-06 16:26:14,411 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:14] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:26:14,454 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:14] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:26:15,112 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:15] "GET / HTTP/1.1" 200 -
+2018-06-06 16:26:15,128 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:15] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:26:15,180 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:15] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:26:15,973 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:15] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 16:26:15,989 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:15] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:26:16,039 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:16] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:26:16,838 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:16] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 16:26:16,854 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:16] "GET / HTTP/1.1" 200 -
+2018-06-06 16:26:16,868 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:16] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:26:16,930 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:16] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:26:17,736 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:17] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:26:18,552 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:18] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 16:26:18,793 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:18] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 16:26:18,796 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:18] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 16:26:18,801 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:18] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 16:26:18,822 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:18] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 16:26:18,848 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:26:18] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 16:27:59,568 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:27:59,568 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:27:59,568 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:27:59,568 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:27:59,569 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:27:59,673 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:27:59,720 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:27:59,878 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:27:59,894 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:27:59,960 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:28:00,003 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:28:00,144 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:28:00,148 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:28:00,973 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:28:00,974 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:28:00,993 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:28:00,996 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:28:01,042 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:28:01,085 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:28:01,088 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:28:01,094 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:28:01,108 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:28:01,216 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:28:01,217 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:28:01,224 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:28:01,282 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:28:01,285 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:28:01,292 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:28:01,769 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:28:02,599 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:28:02,601 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:28:02,608 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:28:10,795 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:28:10,911 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:28:11,436 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:28:11,437 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:28:11,444 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:28:11,539 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:28:11,540 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:28:11,546 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:28:13,648 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:13] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:28:14,174 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:14] "GET / HTTP/1.1" 200 -
+2018-06-06 16:28:14,196 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:14] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:28:14,237 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:14] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:28:16,486 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:16] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 16:28:16,506 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:16] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:28:16,558 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:16] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:28:17,257 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:17] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 16:28:17,286 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:17] "GET / HTTP/1.1" 200 -
+2018-06-06 16:28:17,299 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:17] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:28:17,364 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:17] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:28:18,219 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:18] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:28:19,780 test4.py[line:381] INFO {'username': u'huanghong', 'start_time': datetime.datetime(2018, 6, 6, 16, 28), 'hours': u'', 'second': u'', 'password': u'huanghong', 'minute': u'', 'days': u'', 'end_time': u'', 'weeks': None, 'question_id': u'5', 'mode': u'interval'}
+2018-06-06 16:28:19,780 test4.py[line:382] INFO 2018-06-16 16:28:00
+2018-06-06 16:28:19,780 test4.py[line:383] INFO ['__add__', '__class__', '__delattr__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__ne__', '__new__', '__radd__', '__reduce__', '__reduce_ex__', '__repr__', '__rsub__', '__setattr__', '__sizeof__', '__str__', '__sub__', '__subclasshook__', 'astimezone', 'combine', 'ctime', 'date', 'day', 'dst', 'fromordinal', 'fromtimestamp', 'hour', 'isocalendar', 'isoformat', 'isoweekday', 'max', 'microsecond', 'min', 'minute', 'month', 'now', 'replace', 'resolution', 'second', 'strftime', 'strptime', 'time', 'timetuple', 'timetz', 'today', 'toordinal', 'tzinfo', 'tzname', 'utcfromtimestamp', 'utcnow', 'utcoffset', 'utctimetuple', 'weekday', 'year']
+2018-06-06 16:28:19,796 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:19] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 16:28:20,026 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:20] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 16:28:20,030 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:20] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 16:28:20,038 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:20] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 16:28:20,066 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:20] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 16:28:20,082 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:28:20] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-06 16:32:39,517 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:32:39,519 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:32:39,526 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:32:39,542 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:32:39,543 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:32:39,545 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:32:40,026 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:40,029 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:40,036 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:40,038 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:40,051 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:40,055 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:40,115 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:40,115 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:41,000 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:32:41,009 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:32:41,010 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:32:41,013 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:32:41,059 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:32:41,115 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:32:41,654 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:32:41,654 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:32:41,655 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:32:41,657 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:32:41,697 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:32:41,700 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:32:41,766 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:32:41,767 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:32:41,779 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:32:41,799 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:32:41,802 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:32:41,808 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:32:45,427 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:45,989 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:32:45,990 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:32:45,996 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:32:47,966 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:32:48,029 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:32:48,046 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:32:48,092 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:32:48,186 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:48,198 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:48,237 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:48,384 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:32:48,385 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-06-06 16:32:48,499 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:48,499 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:48,500 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:48,631 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:48,677 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-06 16:32:49,463 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:32:49,467 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:32:49,644 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:32:49,647 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:32:49,650 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:32:49,801 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:32:49,881 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:32:49,884 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:32:50,000 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:32:50,025 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:32:50,028 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:32:50,046 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:32:50,049 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:32:50,063 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:32:50,065 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:32:50,101 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:32:50,104 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:32:50,112 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:32:50,121 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-06 16:32:50,125 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-06 16:32:50,132 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-06-06 16:32:52,082 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:52] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:32:52,437 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:52] "GET / HTTP/1.1" 200 -
+2018-06-06 16:32:52,461 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:52] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:32:52,507 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:52] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:32:53,987 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:53] "GET /login/ HTTP/1.1" 200 -
+2018-06-06 16:32:54,023 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:54] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:32:54,055 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:54] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:32:54,880 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:54] "POST /login/ HTTP/1.1" 302 -
+2018-06-06 16:32:54,898 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:54] "GET / HTTP/1.1" 200 -
+2018-06-06 16:32:54,914 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:54] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-06-06 16:32:54,974 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:54] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:32:56,638 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:56] "GET /favicon.ico HTTP/1.1" 200 -
+2018-06-06 16:32:57,644 test4.py[line:381] INFO {'username': u'huanghong', 'start_time': datetime.datetime(2018, 6, 6, 16, 32), 'hours': u'', 'second': u'', 'password': u'huanghong', 'minute': u'', 'days': u'', 'end_time': u'', 'weeks': None, 'question_id': u'5', 'mode': u'interval'}
+2018-06-06 16:32:57,644 test4.py[line:382] INFO 2018-06-06 16:42:00
+2018-06-06 16:32:57,644 test4.py[line:383] INFO ['__add__', '__class__', '__delattr__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__gt__', '__hash__', '__init__', '__le__', '__lt__', '__ne__', '__new__', '__radd__', '__reduce__', '__reduce_ex__', '__repr__', '__rsub__', '__setattr__', '__sizeof__', '__str__', '__sub__', '__subclasshook__', 'astimezone', 'combine', 'ctime', 'date', 'day', 'dst', 'fromordinal', 'fromtimestamp', 'hour', 'isocalendar', 'isoformat', 'isoweekday', 'max', 'microsecond', 'min', 'minute', 'month', 'now', 'replace', 'resolution', 'second', 'strftime', 'strptime', 'time', 'timetuple', 'timetz', 'today', 'toordinal', 'tzinfo', 'tzname', 'utcfromtimestamp', 'utcnow', 'utcoffset', 'utctimetuple', 'weekday', 'year']
+2018-06-06 16:32:57,660 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:57] "POST /whiletask/ HTTP/1.1" 500 -
+2018-06-06 16:32:57,880 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:57] "GET /whiletask/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-06-06 16:32:57,881 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:57] "GET /whiletask/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-06-06 16:32:57,885 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:57] "GET /whiletask/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-06-06 16:32:57,907 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:57] "GET /whiletask/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-06-06 16:32:57,921 _internal.py[line:88] INFO 127.0.0.1 - - [06/Jun/2018 16:32:57] "GET /whiletask/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-06-29 14:37:36,782 _internal.py[line:88] INFO  * Restarting with stat
+2018-06-29 14:37:37,421 _internal.py[line:88] WARNING  * Debugger is active!
+2018-06-29 14:37:37,444 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-06-29 14:37:37,535 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-07-11 17:32:49,367 _internal.py[line:88] INFO  * Restarting with stat
+2018-07-11 17:32:50,082 _internal.py[line:88] WARNING  * Debugger is active!
+2018-07-11 17:32:50,085 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-07-11 17:32:50,095 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-07-11 17:32:58,974 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:32:58] "GET / HTTP/1.1" 200 -
+2018-07-11 17:33:06,421 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:33:06] "GET /detail/9 HTTP/1.1" 200 -
+2018-07-11 17:33:06,865 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:33:06] "GET /static/css/detail.css HTTP/1.1" 200 -
+2018-07-11 17:33:23,915 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:33:23] "GET /input/9 HTTP/1.1" 200 -
+2018-07-11 17:33:33,855 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:33:33] "POST /add_file/9 HTTP/1.1" 302 -
+2018-07-11 17:33:33,884 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:33:33] "GET /input/9 HTTP/1.1" 200 -
+2018-07-11 17:35:44,924 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:35:44] "GET / HTTP/1.1" 200 -
+2018-07-11 17:35:46,562 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:35:46] "GET /detail/8 HTTP/1.1" 200 -
+2018-07-11 17:35:50,516 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:35:50] "GET /detail/7 HTTP/1.1" 200 -
+2018-07-11 17:35:56,042 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:35:56] "GET / HTTP/1.1" 200 -
+2018-07-11 17:35:57,000 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:35:57] "GET /detail/9 HTTP/1.1" 200 -
+2018-07-11 17:36:05,805 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:36:05] "GET /download/xin_an_fang_chan.csv/heng_da_sa_dan_sa_fa_sheng_de_shi5b54085eb05dce3 HTTP/1.1" 500 -
+2018-07-11 17:36:05,822 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:36:05] "GET /download/xin_an_fang_chan.csv/heng_da_sa_dan_sa_fa_sheng_de_shi5b54085eb05dce3?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2018-07-11 17:36:05,838 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:36:05] "GET /download/xin_an_fang_chan.csv/heng_da_sa_dan_sa_fa_sheng_de_shi5b54085eb05dce3?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2018-07-11 17:36:05,842 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:36:05] "GET /download/xin_an_fang_chan.csv/heng_da_sa_dan_sa_fa_sheng_de_shi5b54085eb05dce3?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2018-07-11 17:36:05,864 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:36:05] "GET /download/xin_an_fang_chan.csv/heng_da_sa_dan_sa_fa_sheng_de_shi5b54085eb05dce3?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2018-07-11 17:36:05,946 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:36:05] "GET /download/xin_an_fang_chan.csv/heng_da_sa_dan_sa_fa_sheng_de_shi5b54085eb05dce3?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-07-11 17:36:05,982 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:36:05] "GET /download/xin_an_fang_chan.csv/heng_da_sa_dan_sa_fa_sheng_de_shi5b54085eb05dce3?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2018-07-11 17:38:00,859 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:38:00] "GET /showway/%2Cmethods%3D%5B%22POST%22%2C%22GET%22%5D?p=1 HTTP/1.1" 404 -
+2018-07-11 17:38:02,154 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:38:02] "GET /showway/%2Cmethods%3D%5B%22POST%22%2C%22GET%22%5D?p=1 HTTP/1.1" 404 -
+2018-07-11 17:38:02,322 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:38:02] "GET /showway/%2Cmethods%3D%5B%22POST%22%2C%22GET%22%5D?p=1 HTTP/1.1" 404 -
+2018-07-11 17:38:02,507 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:38:02] "GET /showway/%2Cmethods%3D%5B%22POST%22%2C%22GET%22%5D?p=1 HTTP/1.1" 404 -
+2018-07-11 17:38:08,507 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:38:08] "GET /showway/%2Cmethods%3D%5B%22POST%22%2C%22GET%22%5D?p=1 HTTP/1.1" 404 -
+2018-07-11 17:38:09,111 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:38:09] "GET /showway/%2Cmethods%3D%5B%22POST%22%2C%22GET%22%5D?p=1 HTTP/1.1" 404 -
+2018-07-11 17:38:09,299 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:38:09] "GET /showway/%2Cmethods%3D%5B%22POST%22%2C%22GET%22%5D?p=1 HTTP/1.1" 404 -
+2018-07-11 17:38:11,078 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:38:11] "GET /detail/9 HTTP/1.1" 200 -
+2018-07-11 17:38:11,737 _internal.py[line:88] INFO 127.0.0.1 - - [11/Jul/2018 17:38:11] "GET /detail/9 HTTP/1.1" 200 -
+2018-07-30 10:52:15,098 _internal.py[line:88] INFO  * Restarting with stat
+2018-07-30 10:52:15,976 _internal.py[line:88] WARNING  * Debugger is active!
+2018-07-30 10:52:15,982 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-07-30 10:52:16,023 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2018-07-30 10:52:40,907 _internal.py[line:88] INFO  * Restarting with stat
+2018-07-30 10:52:41,052 _internal.py[line:88] INFO  * Detected change in 'D:\\Desktop\\flaskTest\\vi\\test4.py', reloading
+2018-07-30 10:52:41,206 _internal.py[line:88] INFO  * Restarting with stat
+2018-07-30 10:52:41,667 _internal.py[line:88] WARNING  * Debugger is active!
+2018-07-30 10:52:41,673 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-07-30 10:52:41,684 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2018-07-30 10:52:41,947 _internal.py[line:88] WARNING  * Debugger is active!
+2018-07-30 10:52:41,951 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-07-30 10:52:41,960 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2018-07-30 10:52:43,793 _internal.py[line:88] INFO  * Restarting with stat
+2018-07-30 10:52:44,510 _internal.py[line:88] WARNING  * Debugger is active!
+2018-07-30 10:52:44,515 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2018-07-30 10:52:44,525 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2018-07-30 10:52:51,641 _internal.py[line:88] INFO 127.0.0.1 - - [30/Jul/2018 10:52:51] "GET / HTTP/1.1" 200 -
+2018-07-30 10:52:52,138 _internal.py[line:88] INFO 127.0.0.1 - - [30/Jul/2018 10:52:52] "GET /static/css/bases.css HTTP/1.1" 200 -
+2018-07-30 10:52:52,221 _internal.py[line:88] INFO 127.0.0.1 - - [30/Jul/2018 10:52:52] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-07-30 10:52:52,249 _internal.py[line:88] INFO 127.0.0.1 - - [30/Jul/2018 10:52:52] "GET /favicon.ico HTTP/1.1" 200 -
+2018-07-30 10:53:27,440 _internal.py[line:88] INFO 127.0.0.1 - - [30/Jul/2018 10:53:27] "GET /delete_data/9 HTTP/1.1" 302 -
+2018-07-30 10:53:27,463 _internal.py[line:88] INFO 127.0.0.1 - - [30/Jul/2018 10:53:27] "GET /login/ HTTP/1.1" 200 -
+2018-07-30 10:53:27,483 _internal.py[line:88] INFO 127.0.0.1 - - [30/Jul/2018 10:53:27] "GET /static/css/login_regist.css HTTP/1.1" 200 -
+2018-07-30 10:53:27,489 _internal.py[line:88] INFO 127.0.0.1 - - [30/Jul/2018 10:53:27] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-07-30 10:53:27,542 _internal.py[line:88] INFO 127.0.0.1 - - [30/Jul/2018 10:53:27] "GET /favicon.ico HTTP/1.1" 200 -
+2018-07-30 10:53:29,292 _internal.py[line:88] INFO 127.0.0.1 - - [30/Jul/2018 10:53:29] "GET /favicon.ico HTTP/1.1" 200 -
+2018-07-30 14:38:27,605 _internal.py[line:88] INFO 127.0.0.1 - - [30/Jul/2018 14:38:27] "GET / HTTP/1.1" 200 -
+2018-07-30 14:38:28,135 _internal.py[line:88] INFO 127.0.0.1 - - [30/Jul/2018 14:38:28] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2018-07-30 14:38:28,635 _internal.py[line:88] INFO 127.0.0.1 - - [30/Jul/2018 14:38:28] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-29 08:47:06,628 _internal.py[line:88] INFO  * Restarting with stat
+2019-04-29 08:47:07,339 _internal.py[line:88] WARNING  * Debugger is active!
+2019-04-29 08:47:07,346 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2019-04-29 08:47:07,358 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2019-04-29 08:47:29,582 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:47:29] "GET / HTTP/1.1" 200 -
+2019-04-29 08:47:33,236 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:47:33] "GET /static/css/bases.css HTTP/1.1" 200 -
+2019-04-29 08:47:33,255 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:47:33] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2019-04-29 08:47:33,411 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:47:33] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-29 08:47:41,069 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:47:41] "GET /login/ HTTP/1.1" 200 -
+2019-04-29 08:47:41,109 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:47:41] "GET /static/css/login_regist.css HTTP/1.1" 200 -
+2019-04-29 08:47:41,119 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:47:41] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2019-04-29 08:47:41,145 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:47:41] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-29 08:51:58,316 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:51:58] "POST /login/ HTTP/1.1" 200 -
+2019-04-29 08:51:58,349 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:51:58] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-29 08:52:02,660 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:52:02] "GET /login/ HTTP/1.1" 200 -
+2019-04-29 08:52:02,737 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:52:02] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-29 08:56:20,855 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:56:20] "POST /login/ HTTP/1.1" 200 -
+2019-04-29 08:56:20,881 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:56:20] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-29 08:56:23,914 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:56:23] "GET /login/ HTTP/1.1" 200 -
+2019-04-29 08:56:24,025 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:56:24] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-29 08:56:44,746 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:56:44] "POST /login/ HTTP/1.1" 200 -
+2019-04-29 08:56:44,773 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:56:44] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-29 08:56:48,203 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:56:48] "GET /login/ HTTP/1.1" 200 -
+2019-04-29 08:56:48,289 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:56:48] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-29 08:57:04,499 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:57:04] "POST /login/ HTTP/1.1" 302 -
+2019-04-29 08:57:04,529 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:57:04] "GET / HTTP/1.1" 200 -
+2019-04-29 08:57:04,555 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:57:04] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2019-04-29 08:57:04,627 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:57:04] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-29 08:57:27,572 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:57:27] "GET /logout/ HTTP/1.1" 302 -
+2019-04-29 08:57:27,595 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:57:27] "GET / HTTP/1.1" 200 -
+2019-04-29 08:57:27,611 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:57:27] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2019-04-29 08:57:27,674 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:57:27] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-29 08:57:30,275 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:57:30] "GET /download_data/9 HTTP/1.1" 200 -
+2019-04-29 08:57:36,417 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:57:36] "GET /login/ HTTP/1.1" 200 -
+2019-04-29 08:57:36,440 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:57:36] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2019-04-29 08:57:36,480 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:57:36] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-29 08:57:38,875 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:57:38] "POST /login/ HTTP/1.1" 302 -
+2019-04-29 08:57:38,900 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:57:38] "GET / HTTP/1.1" 200 -
+2019-04-29 08:57:38,921 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:57:38] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2019-04-29 08:57:38,983 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:57:38] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-29 08:58:36,132 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:58:36] "GET /logout/ HTTP/1.1" 302 -
+2019-04-29 08:58:36,154 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:58:36] "GET / HTTP/1.1" 200 -
+2019-04-29 08:58:36,174 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:58:36] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2019-04-29 08:58:36,240 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:58:36] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-29 08:58:36,713 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:58:36] "GET /login/ HTTP/1.1" 200 -
+2019-04-29 08:58:36,736 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:58:36] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2019-04-29 08:58:36,786 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 08:58:36] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-29 10:19:35,990 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 10:19:35] "GET /login/ HTTP/1.1" 200 -
+2019-04-29 10:19:36,016 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 10:19:36] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2019-04-29 10:19:36,086 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 10:19:36] "GET /favicon.ico HTTP/1.1" 200 -
+2019-04-29 20:08:07,571 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 20:08:07] "GET /login/ HTTP/1.1" 200 -
+2019-04-29 20:08:07,801 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 20:08:07] "GET /login/ HTTP/1.1" 200 -
+2019-04-29 20:08:08,338 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 20:08:08] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2019-04-29 20:08:10,023 _internal.py[line:88] INFO 127.0.0.1 - - [29/Apr/2019 20:08:10] "GET /favicon.ico HTTP/1.1" 200 -
+2019-05-04 10:42:24,993 _internal.py[line:88] INFO  * Restarting with stat
+2019-05-04 10:42:26,242 _internal.py[line:88] WARNING  * Debugger is active!
+2019-05-04 10:42:26,253 _internal.py[line:88] INFO  * Debugger PIN: 102-705-199
+2019-05-04 10:42:26,328 _internal.py[line:88] INFO  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+2019-05-04 10:42:39,589 _internal.py[line:88] INFO 127.0.0.1 - - [04/May/2019 10:42:39] "GET / HTTP/1.1" 200 -
+2019-05-04 10:42:44,809 _internal.py[line:88] INFO 127.0.0.1 - - [04/May/2019 10:42:44] "GET /static/css/bases.css HTTP/1.1" 304 -
+2019-05-04 10:42:44,874 _internal.py[line:88] INFO 127.0.0.1 - - [04/May/2019 10:42:44] "GET /static/images/logo.jpg HTTP/1.1" 404 -
+2019-05-04 10:42:45,094 _internal.py[line:88] INFO 127.0.0.1 - - [04/May/2019 10:42:45] "GET /favicon.ico HTTP/1.1" 200 -
